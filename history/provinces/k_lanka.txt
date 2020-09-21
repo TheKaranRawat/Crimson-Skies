@@ -1,0 +1,70 @@
+
+3275 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+
+3276 = {	
+
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+
+3271 = {	
+	
+	culture = sinhala
+	religion = theravada
+	
+}
+
+3272 = {	
+	
+	culture = sinhala
+	religion = krishnaism
+	
+}
+
+3266 = {	
+	
+	culture = sinhala
+	religion = theravada
+	
+}
+
+3278 = {	
+	
+	culture = sinhala
+	religion = theravada
+	
+}
+
+3278 = {	
+	
+	culture = sinhala
+	religion = theravada
+	
+}
+
+3280 = {	
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+3281 = {	
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+
+
+
+
