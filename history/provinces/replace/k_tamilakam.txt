@@ -19,9 +19,10 @@
 	religion = krishnaism
 	
 	# History
-	1066.1.1 = {
+	1066.1.1 = {		
 		religion = krishnaism
 	}
+	
 }
 
 # 1114 - Mahoyadapuram
@@ -41,8 +42,8 @@
 	#b_kadungallur = city
 	
 	# Misc
-	culture = tamil
-	religion = vaishnavism
+	culture = malayali
+	religion = catholic
 	
 	# History
 }
@@ -70,7 +71,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	
 	# History
 	867.1.1 = {
@@ -100,7 +101,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = vaishnavism
+	religion = krishnaism
 	
 	# History
 }
@@ -122,8 +123,8 @@
 	#b_chaliyam = city
 	
 	# Misc
-	culture = tamil
-	religion = vaishnavism
+	culture = kannada
+	religion = krishnaism
 	
 	# History
 }
@@ -146,11 +147,11 @@
 	
 	# Misc
 	culture = tamil
-	religion = yapaniya
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
-		religion = vaishnavism
+		religion = krishnaism
 	}
 }
 
@@ -172,7 +173,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -200,7 +201,7 @@
 	
 	# Misc
 	culture = kannada
-	religion = shaivism
+	religion = krishnaism
 	
 	# History
 }
@@ -222,7 +223,7 @@
 	
 	# Misc
 	culture = kannada
-	religion = yapaniya
+	religion = krishnaism
 	
 	# History
 }
@@ -247,7 +248,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -274,7 +275,7 @@
 	
 	# Misc
 	culture = telugu
-	religion = svetambara
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
@@ -299,7 +300,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = vaishnavism
+	religion = krishnaism
 	
 	# History
 }
@@ -321,7 +322,7 @@
 	
 	# Misc
 	culture = telugu
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -334,7 +335,7 @@
 1360 = {	# Mahal
 	
 	# Misc
-	culture = sinhala
+	culture = tamil
 	religion = theravada
 	
 	holding = castle_holding
@@ -362,7 +363,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = vaishnavism
+	religion = krishnaism
 	
 	# History
 }
@@ -385,7 +386,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = vaishnavism
+	religion = krishnaism
 	
 	# History
 }
@@ -408,7 +409,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = vaishnavism
+	religion = krishnaism
 	
 	# History
 }
@@ -431,7 +432,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = vaishnavism
+	religion = krishnaism
 	
 	# History
 }
@@ -454,7 +455,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = vaishnavism
+	religion = krishnaism
 	
 	# History
 }
@@ -477,7 +478,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = vaishnavism
+	religion = krishnaism
 	
 	# History
 }
@@ -500,7 +501,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = vaishnavism
+	religion = krishnaism
 	
 	# History
 }
@@ -521,8 +522,8 @@
 	#b_nagercoil = castle
 	
 	# Misc
-	culture = tamil
-	religion = vaishnavism
+	culture = malayali
+	religion = krishnaism
 	
 	# History
 }
@@ -547,7 +548,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -576,7 +577,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -605,7 +606,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -634,7 +635,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -663,7 +664,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -690,11 +691,11 @@
 	
 	# Misc
 	culture = tamil
-	religion = yapaniya
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
-		religion = vaishnavism
+		religion = krishnaism
 	}
 }
 
@@ -716,11 +717,11 @@
 	
 	# Misc
 	culture = tamil
-	religion = yapaniya
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
-		religion = vaishnavism
+		religion = krishnaism
 	}
 }
 
@@ -742,11 +743,11 @@
 	
 	# Misc
 	culture = tamil
-	religion = yapaniya
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
-		religion = vaishnavism
+		religion = krishnaism
 	}
 }
 
@@ -768,11 +769,11 @@
 	
 	# Misc
 	culture = tamil
-	religion = yapaniya
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
-		religion = vaishnavism
+		religion = krishnaism
 	}
 }
 
@@ -794,11 +795,11 @@
 	
 	# Misc
 	culture = tamil
-	religion = yapaniya
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
-		religion = vaishnavism
+		religion = krishnaism
 	}
 }
 
@@ -819,7 +820,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = vaishnavism
+	religion = krishnaism
 	
 	# History
 }
@@ -843,7 +844,7 @@
 	
 	# Misc
 	culture = kannada
-	religion = shaivism
+	religion = krishnaism
 	
 	# History
 }
@@ -867,7 +868,7 @@
 	
 	# Misc
 	culture = kannada
-	religion = shaivism
+	religion = krishnaism
 	
 	# History
 }
@@ -891,7 +892,7 @@
 	
 	# Misc
 	culture = kannada
-	religion = shaivism
+	religion = krishnaism
 	
 	# History
 }
@@ -914,7 +915,7 @@
 	
 	# Misc
 	culture = telugu
-	religion = svetambara
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
@@ -941,7 +942,7 @@
 	
 	# Misc
 	culture = kannada
-	religion = shaivism
+	religion = krishnaism
 	
 	# History
 }
@@ -965,7 +966,7 @@
 	
 	# Misc
 	culture = kannada
-	religion = shaivism
+	religion = krishnaism
 	
 	# History
 }
@@ -988,7 +989,7 @@
 	
 	# Misc
 	culture = telugu
-	religion = svetambara
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
@@ -1015,7 +1016,7 @@
 	
 	# Misc
 	culture = kannada
-	religion = shaivism
+	religion = krishnaism
 	
 	# History
 }
@@ -1039,7 +1040,7 @@
 	
 	# Misc
 	culture = kannada
-	religion = shaivism
+	religion = krishnaism
 	
 	# History
 }
@@ -1062,11 +1063,11 @@
 	
 	# Misc
 	culture = tamil
-	religion = yapaniya
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
-		religion = vaishnavism
+		religion = krishnaism
 	}
 }
 
@@ -1089,7 +1090,7 @@
 	
 	# Misc
 	culture = kannada
-	religion = shaivism
+	religion = krishnaism
 	
 	# History
 }
@@ -1112,11 +1113,11 @@
 	
 	# Misc
 	culture = tamil
-	religion = yapaniya
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
-		religion = vaishnavism
+		religion = krishnaism
 	}
 }
 
@@ -1138,11 +1139,11 @@
 	
 	# Misc
 	culture = tamil
-	religion = yapaniya
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
-		religion = vaishnavism
+		religion = krishnaism
 	}
 }
 
@@ -1164,7 +1165,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -1191,7 +1192,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -1218,7 +1219,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -1245,7 +1246,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -1272,7 +1273,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -1299,7 +1300,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -1326,7 +1327,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	terrain = hills
 	
 	# History
@@ -1358,7 +1359,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
@@ -1389,7 +1390,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
@@ -1420,7 +1421,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {
@@ -1451,7 +1452,7 @@
 	
 	# Misc
 	culture = tamil
-	religion = svetambara
+	religion = krishnaism
 	
 	# History
 	1066.1.1 = {

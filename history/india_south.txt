@@ -1,0 +1,338 @@
+
+1114 = {
+	
+	culture = tamil
+	religion = catholic
+	
+}
+
+1114 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1112 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+7807 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1201 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1115 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1120 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1216 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1117 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1197 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1196 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+7830 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1119 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1204 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+7815 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+7850 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1121 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+7855 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+7857 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+7840 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1122 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1207 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1124 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1140 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+7874 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1203 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1211 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1265 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1206 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1416 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+7794 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1206 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1213 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1146 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1212 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1256 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1208 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1123 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1157 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1260 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1126 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1125 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1143 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1199 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1198 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1209 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+1360 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+7803 = {
+	
+	culture = tamil
+	religion = krishnaism
+	
+}
+
+
