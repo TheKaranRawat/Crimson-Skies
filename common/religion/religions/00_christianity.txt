@@ -597,7 +597,7 @@
 		
 		#communal orthodox
 		commorthodox = {
-			color = { 0.7 0 0.5 }
+			color = { 0.7 0.5 1.0 }
 			religious_head = k_orthodox
 			
 			holy_site = jerusalem

@@ -1,0 +1,199 @@
+# 4570 - GHADAMES
+4570 = {	# 4570 - GHADAMES
+	
+	# Misc
+	culture = butr
+	#culture = zanata
+	religion = ibadi
+	
+	holding = tribal_holding
+	
+	# History
+	935.1.1 = {
+		holding = castle_holding
+	}
+}
+
+# 4582 - TUNIS
+4582 = {	# 817 - Tunis
+	
+	# County Title
+	#title = c_tunis
+	
+	# Settlements
+	#max_settlements = 6
+	
+	#b_tunis = castle
+	#b_sousse = city
+	#b_ariana = temple
+	#b_cartaghe = castle
+	#b_zaghouan = city
+	
+	#b_benarous = castle
+	#b_kelibia = castle
+	#b_hammamet = castle
+	
+	# Misc
+	culture = tunisian
+	religion = catholic
+	
+	# History
+	
+	867.1.1 = {
+		religion = catholic
+	#	b_tunis = ca_keep_1
+	#	b_tunis = ca_training_grounds_1
+	#	b_tunis = ca_keep_2
+	#	b_tunis = ca_stable_1
+	#	b_tunis = ca_barracks_1
+	#	b_tunis = ca_militia_barracks_1
+	#	b_tunis = ca_wall_1
+	#	b_tunis = ca_wall_2
+	}
+	#1093.1.1 = { trade_post = b_caetani }
+	#1187.1.1 = { b_hammamet = castle }
+	#1285.1.1  = { trade_post = b_fieschi }
+
+}
+
+# 4594 - KAIROUAN
+4594 = {	# 4594 - KAIROUAN
+	
+	# Misc
+	culture = tunisian
+	religion = hanafi
+	terrain = plains
+	
+	# History
+
+}
+
+# 4598 - AL-QASRAYN
+4598 = {	# 4598 - AL-QASRAYN
+	
+	# Misc
+	culture = tunisian
+	#culture = sanhaja
+	religion = hanafi
+	
+	holding = tribal_holding
+	
+	# History
+	1060.1.1 = {
+		culture = tunisian
+	}
+}
+
+# 4623 - Tabassa
+4623 = {	# 4623 - Tabassa
+	
+	# Misc
+	culture = tunisian
+	#culture = zanata
+	religion = hanafi
+	
+	# History
+	1055.1.1 = {
+		religion = hanafi
+		culture = tunisian
+	}
+
+}
+
+4562 = {
+
+	culture = libyan
+	religion = hanafi
+
+}
+
+4563 = {
+
+	culture = libyan
+	religion = hanafi
+
+}
+
+4556 = {
+
+	culture = libyan
+	religion = hanafi
+
+}
+
+4557 = {
+
+	culture = libyan
+	religion = hanafi
+
+}
+
+4561 = {
+
+	culture = libyan
+	religion = hanafi
+
+}
+
+4572 = {
+
+	culture = libyan
+	religion = hanafi
+
+}
+
+4578 = {
+
+	culture = tunisian
+	religion = hanafi
+
+}
+
+4589 = {
+
+	culture = tunisian
+	religion = hanafi
+
+}
+
+4585 = {
+
+	culture = tunisian
+	religion = hanafi
+
+}
+
+
+4573 = {
+
+	culture = tunisian
+	religion = hanafi
+
+}
+
+4604 = {
+
+	culture = tunisian
+	religion = hanafi
+
+}
+
+4601 = {
+
+	culture = tunisian
+	religion = hanafi
+
+}
+
+4588 = {
+
+	culture = algerian
+	religion = hanafi
+}
+
+4631 = {
+
+	culture = algerian
+	religion = hanafi
+	
+}

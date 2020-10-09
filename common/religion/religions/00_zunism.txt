@@ -207,6 +207,26 @@
 			doctrine = tenet_sun_worship
 			doctrine = tenet_eastern_syncretism
 		}
+		
+		# sikh sikhism
+		sikhism = {
+			color = { 0.9 1.0 0.0 }
+			icon = zunist
+			reformed_icon = zunist_reformed
+
+			holy_site = kabul
+			holy_site = multan
+			holy_site = bost
+			holy_site = nishapur
+			holy_site = memphis
+
+			doctrine = unreformed_faith_doctrine
+
+			doctrine = tenet_unrelenting_faith
+			doctrine = tenet_sun_worship
+			doctrine = tenet_eastern_syncretism
+		}
+		
 		#zun_reformed = {
 		#	color = { 0.9 1.0 0.0 }
 		#	icon = zunist

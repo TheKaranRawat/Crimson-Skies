@@ -42,8 +42,8 @@
 	# 9090 - Devalgarh
 	
 	# Misc
-	culture = nepali
-	religion = shaivism
+	culture = garhwali
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -56,8 +56,8 @@
 	# 9091 - Kartikeyapura
 	
 	# Misc
-	culture = nepali
-	religion = shaivism
+	culture = kumaoni
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -70,8 +70,8 @@
 	# 9092 - Champawat
 	
 	# Misc
-	culture = nepali
-	religion = shaivism
+	culture = hindustani
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -106,8 +106,8 @@
 9095 = {	# 9095 - Doti
 	
 	# Misc
-	culture = nepali
-	religion = shaivism
+	culture = kumaoni
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -155,7 +155,7 @@
 	
 	# Misc
 	culture = nepali
-	religion = shaivism
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -179,7 +179,7 @@
 	
 	# Misc
 	culture = nepali
-	religion = shaivism
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -215,7 +215,7 @@
 	
 	# Misc
 	culture = nepali
-	religion = shaivism
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -263,7 +263,7 @@
 	
 	# Misc
 	culture = nepali
-	religion = shaivism
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -275,7 +275,7 @@
 	
 	# Misc
 	culture = nepali
-	religion = mahayana
+	religion = vaishnavism
 	
 	holding = church_holding #The Buddha's Birthplace
 	
@@ -299,7 +299,7 @@
 	
 	# Misc
 	culture = nepali
-	religion = shaivism
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -359,7 +359,7 @@
 	
 	# Misc
 	culture = nepali #Maithili-Newars
-	religion = shaivism
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -371,7 +371,7 @@
 	
 	# Misc
 	culture = nepali #Newar
-	religion = shaivism
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -407,7 +407,7 @@
 	
 	# Misc
 	culture = kirati
-	religion = kiratism
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -467,7 +467,7 @@
 	
 	# Misc
 	culture = kirati
-	religion = kiratism
+	religion = vaishnavism
 	
 	holding = castle_holding
 	
@@ -539,7 +539,7 @@
 	
 	# Misc
 	culture = kirati
-	religion = kiratism
+	religion = vaishnavism
 	
 	holding = castle_holding
 	

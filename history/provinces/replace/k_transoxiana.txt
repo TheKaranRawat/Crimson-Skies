@@ -1,0 +1,350 @@
+# 903 - Afrasiyab
+903 = {	# 903 - Afrasiyab
+	
+	# County Title
+	#title = c_samarkand
+	
+	# Settlements
+	#max_settlements = 6
+	#b_afrasiyab = castle
+	#b_samarkand = city
+	#b_khokand = temple
+	
+	#b_ishtikhon = city
+	#b_urgut = castle
+	#b_koshrabot = castle
+	#b_ziadin = castle
+	#b_laish = castle
+	
+	# Misc
+	culture = sogdian
+	religion = khurmazta
+	terrain = steppe
+	
+	# History
+	900.1.1 = { culture = turkish }
+	1100.1.1 = { religion = ashari }
+	1230.1.1 = { culture = mongol }
+
+}
+
+# 1423 - Fergana
+1423 = {	# 1423 - Fergana
+	
+	# Misc
+	culture = uzbek
+	religion = hanafi
+	
+	# History
+	900.1.1 = {
+		culture = uzbek
+	}
+	1050.1.1 = {
+		religion = hanafi
+	}
+	
+	1230.1.1 = { culture = uzbek }
+}
+
+# 4376 - Halavand
+4376 = {	# 1188 - Khuttal
+		
+	# Misc
+	culture = tajik
+	religion = hanafi
+	
+	# History
+	900.1.1 = {
+		culture = tajik
+	}
+	1000.1.1 = {
+		religion = hanafi
+	}	
+	1230.1.1 = { culture = tajik }
+
+}
+
+# 4406 - QATWAN
+4406 = {	# 4406 - QATWAN
+	
+	# Misc
+	culture = sogdian
+	religion = gayomarthianism
+	
+	# History
+	900.1.1 = {
+		religion = maturidi
+		culture = tajik
+	}
+	1000.1.1 = {
+		culture = karluk
+	}
+	
+	1230.1.1 = { culture = turkish }
+}
+
+# 4393 - PAYKEND
+4393 = {	# 4393 - PAYKEND
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	# History
+	900.1.1 = {
+		religion = hanafi
+		culture = turkmeni
+	}
+	1000.1.1 = {
+		culture = turkmeni
+	}
+}
+
+# 4394 - BUKHARA
+4394 = {	# 4394 - BUKHARA
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	terrain = steppe
+	
+	# History
+	900.1.1 = {
+		religion = hanafi
+		culture = turkmeni
+	}
+	
+	1230.1.1 = { culture = turkish }
+}
+
+# 4418 - KHOJAND
+4418 = {	
+	# Settlements
+	# Misc
+	culture = uzbek
+	religion = hanafi
+	
+	# History
+	900.1.1 = {
+		culture = uzbek
+	}
+	1050.1.1 = {
+		religion = hanafi
+	}
+	
+	1230.1.1 = { culture =uzbek }
+
+}
+
+# 4460 - KURDAR
+4460 = {	# 4460 - KURDAR
+	
+	# Misc
+	culture = kazakh
+	religion = hanafi
+	
+	# History
+	1060.1.1 = {
+		culture = kazakh
+		religion = hanafi
+	}
+
+}
+
+# 7089 - Vezir
+7089 = {	# 7089 - Vezir
+	
+	# Misc
+	culture = persian
+	religion = mazdayasna
+	
+	holding = none
+	
+	# History
+
+}
+
+# 7964 - Muji
+7964 = {	# 7964 - Muji
+	
+	# Misc
+	culture = afghan
+	religion = ashari
+	
+	holding = none
+	
+	# History
+}
+
+# 7965 - Badakhshan_TARIM
+7965 = {	# 7964 - Muji
+	
+	# Misc
+	culture = afghan
+	religion = ashari
+	
+	holding = none
+	
+	# History
+}
+
+# 4528 - Kurtysh
+4528 = {	# 4528 - Kurtysh
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	# History
+	
+	1060.1.1 = {
+		culture = turkmeni
+		religion = hanafi
+	}
+
+}
+
+4530 = { 
+
+	culture = turkmeni
+	religion = hanafi
+}
+
+4456 = { 
+
+	culture = turkmeni
+	religion = hanafi
+}
+
+4460 = { 
+
+	culture = turkmeni
+	religion = hanafi
+}
+
+4448 = { 
+
+	culture = turkmeni
+	religion = hanafi
+}
+
+4452 = { 
+
+	culture = turkmeni
+	religion = hanafi
+}
+
+4441 = { 
+
+	culture = turkmeni
+	religion = hanafi
+}
+
+4388 = { 
+
+	culture = uzbek
+	religion = hanafi
+}
+
+4390 = { 
+
+	culture = uzbek
+	religion = hanafi
+}
+
+4402 = { 
+
+	culture = uzbek
+	religion = hanafi
+}
+
+4404 = { 
+
+	culture = uzbek
+	religion = hanafi
+}
+
+4409 = { 
+
+	culture = uzbek
+	religion = hanafi
+}
+
+4414 = { 
+
+	culture = uzbek
+	religion = hanafi
+}
+
+4369 = { 
+
+	culture = tajik
+	religion = hanafi
+}
+
+4376 = { 
+
+	culture = tajik
+	religion = hanafi
+}
+
+4383 = { 
+
+	culture = tajik
+	religion = hanafi
+}
+
+4378 = { 
+
+	culture = tajik
+	religion = hanafi
+}
+
+4355 = { 
+
+	culture = tajik
+	religion = hanafi
+}
+
+4366 = { 
+
+	culture = tajik
+	religion = hanafi
+}
+
+4357 = { 
+
+	culture = tajik
+	religion = hanafi
+}
+
+4362 = { 
+
+	culture = tajik
+	religion = hanafi
+}
+
+4363 = { 
+
+	culture = tajik
+	religion = hanafi
+}
+
+4422 = { 
+
+	culture = uzbek
+	religion = hanafi
+}
+
+4429 = { 
+
+	culture = uzbek
+	religion = hanafi
+}
+
+4438 = { 
+
+	culture = uzbek
+	religion = hanafi
+}
+

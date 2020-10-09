@@ -14,8 +14,8 @@
 9129 = {	# 9129 - Daramdin
 	
 	# Misc
-	culture = kirati
-	religion = yumaism
+	culture = sikkimese
+	religion = vajrayana
 	
 	holding = castle_holding
 	
@@ -26,8 +26,8 @@
 9133 = {	# 9133 - Chungthang
 	
 	# Misc
-	culture = lhomon #Lepcha
-	religion = lamaism
+	culture = sikkimese #Lepcha
+	religion = vajrayana
 	
 	holding = castle_holding
 	
@@ -62,8 +62,8 @@
 9137 = {	# 9137 - Paro
 	
 	# Misc
-	culture = lhomon #Lepcha
-	religion = lamaism
+	culture = bhutanese #Lepcha
+	religion = vajrayana
 	
 	holding = castle_holding
 	
@@ -98,8 +98,8 @@
 9140 = {	# 9140 - Punakha
 	
 	# Misc
-	culture = lhomon #Lepcha
-	religion = lamaism
+	culture = bhutanese #Lepcha
+	religion = vajrayana
 	
 	holding = castle_holding
 	
@@ -134,8 +134,8 @@
 9143 = {	# 9143 - Trongsa
 	
 	# Misc
-	culture = lhomon #Monpa
-	religion = lamaism
+	culture = bhutanese #Monpa
+	religion = vajrayana
 	
 	holding = castle_holding
 	
@@ -206,8 +206,8 @@
 9149 = {	# 9149 - Kurmaed
 	
 	# Misc
-	culture = lhomon #Monpa
-	religion = old_bon
+	culture = assamese #Monpa
+	religion = indo_lutheran
 	
 	holding = castle_holding
 	
@@ -266,8 +266,8 @@
 9154 = {	# 9154 - Tawang
 
 	# Misc
-	culture = lhomon #Monpa
-	religion = lamaism
+	culture = assamese #Monpa
+	religion = indo_lutheran
 	
 	holding = castle_holding
 	
@@ -302,8 +302,8 @@
 9157 = {	# 9157 - Itanagar
 	
 	# Misc
-	culture = lhomon
-	religion = vaishnavism
+	culture = assamese
+	religion = indo_lutheran
 	
 	holding = castle_holding
 	
@@ -338,8 +338,8 @@
 9160 = {	# 9160 - Along
 	
 	# Misc
-	culture = lhomon #Lhoba
-	religion = donyipoloism
+	culture = assamese #Lhoba
+	religion = indo_lutheran
 	
 	holding = tribal_holding
 	
@@ -398,8 +398,8 @@
 9165 = {	# 9165 - Roing
 	
 	# Misc
-	culture = lhomon #Lhoba
-	religion = donyipoloism
+	culture = assamese #Lhoba
+	religion = indo_lutheran
 	
 	holding = tribal_holding
 	
@@ -410,8 +410,8 @@
 9166 = {	# 9166 - Tezu
 	
 	# Misc
-	culture = lhomon #Lhoba
-	religion = donyipoloism
+	culture = assamese #Lhoba
+	religion = indo_lutheran
 	
 	holding = tribal_holding
 	
@@ -482,8 +482,8 @@
 9172 = {	# 9172 - Medog
 	
 	# Misc
-	culture = lhomon #Lhoba
-	religion = lamaism
+	culture = assamese #Lhoba
+	religion = indo_lutheran
 	
 	holding = castle_holding
 	

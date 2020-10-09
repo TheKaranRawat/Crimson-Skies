@@ -1,0 +1,260 @@
+# 4014 - NISHAPUR
+4014 = {	# 4314 - NISHAPUR
+		
+	# Misc
+	culture = persian
+	religion = qarmatian
+	
+	# History
+	
+	1060.1.1 = { religion = qarmatian }
+}
+
+# 4238 - Merv
+4238 = {	# 4238 - Merv
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	# History
+	
+	960.1.1 = {
+		religion = hanafi
+	}
+	1160.1.1 = {
+		culture = turkmeni
+	}
+
+}
+
+# 4044 - Abivard
+4044 = {	# 4044 - Abivard
+	
+	# Misc
+	culture = turkmeni
+	religion = mazdayasna
+	
+	# History
+	
+	1060.1.1 = {
+		culture = turkmeni
+		religion = hanafi
+	}
+
+}
+
+
+# 4252 - Taleqan
+4252 = {	# 4252 - Taleqan
+	
+	
+	# Misc
+	culture = tajik
+	religion = zurvanism
+	
+	# History
+	987.1.1 = {
+		religion = maturidi
+	}
+
+}
+# 4215 - Herat
+4215 = {	# 4215 - Herat
+	
+	
+	# Misc
+	culture = persian
+	religion = jafari
+	
+	# History
+	987.1.1 = {
+		religion = jafari
+	}
+
+}
+
+# 4223 - Dizah
+4223 = {	# 4223 - Dizah
+	
+	
+	# Misc
+	culture = persian
+	religion = jafari
+	
+	# History
+	1087.1.1 = {
+		religion = jafari
+	}
+
+}
+
+# 4228 - Darmashan
+4228 = {	# 4228 - Darmashan
+	
+	# Misc
+	culture = afghan
+	religion = mahayana
+
+}
+
+4019 = {	
+	
+	culture = kurdish
+	religion = qarmatian
+
+}
+
+4026 = {	
+	
+	culture = persian
+	religion = jafari
+
+}
+
+4068 = {	
+	
+	culture = persian
+	religion = jafari
+
+}
+
+4210 = {	
+	
+	culture = persian
+	religion = jafari
+
+}
+
+4203 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4212 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4007 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4012 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4039 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4036 = {	
+	
+	culture = turkmeni
+	religion = hanafi
+
+}
+
+4022 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4221 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4240 = {	
+	
+	culture = turkmeni
+	religion = hanafi
+
+}
+
+4247 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4251 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4335 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4351 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4341 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4231 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4225 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}
+
+4201 = {	
+	
+	culture = pashtuni
+	religion = qarmatian
+
+}
+
+4204 = {	
+	
+	culture = pashtuni
+	religion = qarmatian
+
+}
+
+4062 = {	
+	
+	culture = persian
+	religion = qarmatian
+
+}

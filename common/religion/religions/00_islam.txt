@@ -875,8 +875,8 @@
 		###custom religions
 		
 		#wahhabi
-		wahhabi = { #Arabian Sunni Islam
-			color = { 0 0.6 0 }
+		wahhabi = { #wahhabist
+			color = { 0 0 0 }
 			icon = sunni
 			religious_head = d_sunni
 
@@ -1017,7 +1017,7 @@
 		
 		#sunni islam sect
 		shafii = { #Arabian Sunni Islam
-			color = { 0 0.6 0 }
+			color = { 0 0.6 1.0 }
 			icon = sunni
 			religious_head = d_sunni
 
@@ -1071,7 +1071,7 @@
 		
 		#main shia sect/jafari
 		jafari = { #Seveners (default Shia)
-			color = { 0.2 0.8 0 }
+			color = { 0.2 0.8 0.4 }
 			icon = shia
 			religious_head = d_shiite
 

@@ -1,0 +1,174 @@
+# 4609 - ARIGH
+4609 = {	# 4609 - ARIGH
+	
+	# Misc
+	culture = tuareg
+	#culture = tagelmust
+	religion = muwalladi
+	
+	holding = tribal_holding
+	
+	# History
+	935.1.1 = {
+		holding = castle_holding
+	}
+}
+
+# 4615 - WARGLA
+4615 = {	# 4615 - WARGLA
+	
+	# Misc
+	culture = tuareg
+	#culture = tagelmust
+	religion = muwalladi
+	
+	holding = tribal_holding
+	
+	# History
+	935.1.1 = {
+		holding = castle_holding
+	}
+}
+
+# 4616 - GHARDAIA
+4616 = {	# 4616 - GHARDAIA
+	
+	# Misc
+	culture = tuareg
+	#culture = tagelmust
+	religion = muwalladi
+	
+	holding = tribal_holding
+	
+	# History
+	935.1.1 = {
+		holding = castle_holding
+	}
+}
+
+# 4619 - AL-AGHWAT
+4619 = {	# 4619 - AL-AGHWAT
+	
+	# Misc
+	culture = algerian
+	#culture = tagelmust
+	religion = hanafi
+	
+	holding = tribal_holding
+	
+	# History
+	935.1.1 = {
+		holding = castle_holding
+	}
+}
+
+# 4650 - ALGIERS
+4650 = {	# 4650 - ALGIERS
+	
+	# Misc
+	culture = algerian
+	#culture = zanata
+	religion = hanafi
+	
+	# History
+
+}
+
+# 4749 - FIGUIG
+4749 = {	# 4749 - FIGUIG
+	
+	# Misc
+	culture = algerian
+	#culture = tagelmust
+	religion = hanafi
+	
+	holding = tribal_holding
+	
+	# History
+	935.1.1 = {
+		holding = castle_holding
+	}
+}
+
+4634 = {
+
+	culture = algerian
+	religion = hanafi
+
+}
+
+
+
+4669 = {
+
+	culture = algerian
+	religion = hanafi
+
+}
+
+4637 = {
+
+	culture = algerian
+	religion = hanafi
+
+}
+
+4644 = {
+
+	culture = algerian
+	religion = hanafi
+
+}
+
+4647 = {
+
+	culture = algerian
+	religion = hanafi
+
+}
+
+4659 = {
+
+	culture = algerian
+	religion = hanafi
+
+}
+
+4653 = {
+
+	culture = algerian
+	religion = hanafi
+
+}
+
+4655 = {
+
+	culture = algerian
+	religion = hanafi
+
+}
+
+4666 = {
+
+	culture = algerian
+	religion = hanafi
+
+}
+
+4672 = {
+
+	culture = algerian
+	religion = hanafi
+
+}
+
+
+4674 = {
+
+	culture = algerian
+	religion = hanafi
+
+}
+
+
+

@@ -1,0 +1,157 @@
+# 4270 - Tiz
+4270 = {	# 4270 - Tiz
+	
+	# Misc
+	culture = baloch
+	religion = zurvanism
+	
+	# History
+}
+
+# 4274 - Riqan
+4274 = {	# 4274 - Riqan
+		
+	# Misc
+	culture = persian
+	religion = jafari
+	
+	# History
+	830.1.1 = {
+		religion = jafari
+	}
+	880.1.1 = {
+		religion = jafari
+	}
+}
+
+# 4285 - Kiz
+4285 = {	# 1139 - Makran
+		
+	# Misc
+	culture = baloch
+	religion = jafari
+	
+	# History
+	880.1.1 = {
+		religion = jafari
+	}
+}
+
+# 4290 - Qarnin
+4290 = {	# 1275 - Zaranj
+	
+	
+	# Misc
+	culture = afghan
+	religion = zun_pagan
+	
+	# History
+	860.1.1 = { religion = ashari }
+
+}
+# 4299 - Farah
+4299 = {	# 4299 - Farah
+	
+	
+	# Misc
+	culture = persian
+	religion = jafari
+	
+	# History
+	830.1.1 = {
+		religion = jafari
+	}
+	880.1.1 = {
+		religion = qarmatian
+	}
+
+}
+
+# 4473 - RODKHAN
+4473 = {	
+	# Misc
+	culture = baloch
+	religion = zurvanism
+	
+	# History
+	religion = zun_pagan
+	
+	# History
+	830.1.1 = {
+		religion = azariqa
+	}
+	880.1.1 = {
+		religion = ashari
+	}
+}
+
+
+4265 = {	
+	
+	culture = persian
+	religion = jafari
+	
+}
+
+4268 = {	
+	
+	culture = baloch
+	religion = jafari
+	
+}
+
+4277 = {	
+	
+	culture = baloch
+	religion = jafari
+	
+}
+
+4471 = {	
+	
+	culture = baloch
+	religion = jafari
+	
+}
+
+4477 = {	
+	
+	culture = baloch
+	religion = lashkari
+	
+}
+
+4479 = {	
+	
+	culture = baloch
+	religion = lashkari
+	
+}
+
+4465 = {	
+	
+	culture = baloch
+	religion = jafari
+	
+}
+
+4289 = {	
+	
+	culture = baloch
+	religion = qarmatian
+	
+}
+
+4484 = {	
+	
+	culture = baloch
+	religion = jafari
+	
+}
+
+4283 = {	
+	
+	culture = persian
+	religion = qarmatian
+	
+}

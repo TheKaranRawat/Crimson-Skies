@@ -1,0 +1,357 @@
+# 5974 - AQABA
+5974 = {	# 5974 - Aqaba
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+	# History
+
+}
+
+# 5975 - AL-HUMAYMA
+5975 = {	# 5975 - Al-Humayma
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+	# History
+
+}
+
+# 5976 - MAAN
+5976 = {	# 5979 - Maan
+	
+	# Misc
+	culture = sephardi
+	religion = rabbinism
+	
+	# History
+
+}
+
+# 5977 - ADRUH
+5977 = {	# 5977 - Adruh
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+	# History
+
+}
+
+# 5981 - MAAB
+5981 = {	# 5981 - Maab
+	
+	# Misc
+	culture = sephardi
+	religion = rabbinism
+	
+	# History
+
+}
+
+# 5982 - ZAIZA
+5982 = {	# 5982 - Zaiza
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+	# History
+
+}
+
+# 5983 - MUJIB
+5983 = {	# 5983 - Mujib
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+	# History
+
+}
+
+# 5984 - AMMAN
+5984 = {	# 5984 - Amman
+	
+	# Misc
+	culture = sephardi
+	religion = rabbinism
+	
+	# History
+
+}
+
+# 5986 - AZ-ZARQA
+5986 = {	# 5986 - Az-Zarqa
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+	# History
+
+}
+
+# 5987 - AL-AZRAQ
+5987 = {	# 5987 - Al-Azraq
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+	# History
+
+}
+
+# 5988 - AL-JILAT
+5988 = {	# 5988 - Al-Jilat
+	
+	# Misc
+	culture = sephardi
+	religion = rabbinism
+	
+	# History
+
+}
+
+# 5989 - QURAQIR
+5989 = {	# 5989 - Quraqir
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+	# History
+
+}
+
+# 6131 - JULFAR
+6131 = {	# 6131 - JULFAR
+	
+	# Misc
+	culture = arabic
+	religion = ibadi
+	terrain = desert
+	
+	# History
+
+}
+
+# 6134 - SUHAR
+6134 = {	# 6134 - SUHAR
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	terrain = plains
+	
+	# History
+
+}
+
+# 6140 - NIZWA
+6140 = {	# 6140 - NIZWA
+	
+	# Misc
+	culture = arabic
+	religion = ibadi
+	
+	# History
+
+}
+
+# 6156 - UWAL
+6156 = {	# 6156 - UWAL
+	
+	# Misc
+	culture = arabic
+	religion = ismaili
+	
+	# History
+
+}
+
+# 6172 - HAIL
+6172 = {	# 6172 - HAIL
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+	# History
+
+}
+
+# 6178 - AL-JAWF
+6178 = {	# 6178 - AL-JAWF
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+
+}
+
+# 6188 - TABUK
+6188 = {	# 6188 - TABUK
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	terrain = oasis
+	
+	# History
+
+}
+
+# 6223 - MAKKA
+6223 = {	# 6223 - MAKKA
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+	# History
+	867.1.1 = {
+		holding = castle_holding
+		special_building_slot = holy_site_great_mosque_of_mecca_01
+		special_building = holy_site_great_mosque_of_mecca_01
+	}
+
+}
+
+# 6212 - MEDINA
+6212 = {	# 6212 - MEDINA
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+	# History
+	867.1.1 = {
+		holding = castle_holding
+		special_building_slot = holy_site_prophetic_mosque_01
+		special_building = holy_site_prophetic_mosque_01
+	}
+
+}
+
+# 6246 - AQIQ_TAMRA
+6246 = {	# 6246 - AQIQ TAMRA
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+
+}
+
+# 6250 - FALAJ
+6250 = {	# 6250 - FALAJ
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+
+}
+
+# 6253 - YAMAMA
+6253 = {	# 6253 - YAMAMA
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+
+}
+
+# 6254 - AL-ARID
+6254 = {	# 6254 - AL-ARID
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+
+}
+
+# 6257 - NUFUD-AS-SURRAH
+6257 = {	# 6257 - NUFUD-AS-SURRAH
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+
+}
+
+# 6260 - AN-NIBAJ
+6260 = {	# 6260 - AN-NIBAJ
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+
+}
+
+# 6262 - UNAYZA
+6262 = {	# 6262 - UNAYZA
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+
+}
+
+# 6265 - DARIYA
+6265 = {	# 6265 - DARIYA
+	
+	# Misc
+	culture = arabic
+	religion = wahhabi
+	
+
+}
+
+6269 = {
+	
+	culture = bedouin
+	religion = ibadi
+
+}
+
+6229 = {
+	
+	culture = arabic
+	religion = wahhabi
+
+}
+
+6161 = {
+	
+	culture = arabic
+	religion = wahhabi
+
+}
+
+6163 = {
+	
+	culture = arabic
+	religion = wahhabi
+
+}
+
+6134 = {
+	
+	culture = arabic
+	religion = ibadi
+
+}

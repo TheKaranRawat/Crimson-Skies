@@ -1,0 +1,825 @@
+# 621 - Akkityk
+621 = {	# 621 - Akkityk
+	
+	# Misc
+	culture = kazakh
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		culture = kazakh
+	}
+}
+
+# 622 - Ak-Dzulpas
+622 = {	# 622 - Ak-Dzulpas
+	
+	# Misc
+	culture = kazakh
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		culture = kazakh
+	}
+}
+
+# 623 - Kassarma
+623 = {	# 623 - Kassarma
+	
+	# Misc
+	culture = kazakh
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+
+}
+
+# 624 - Aktau
+624 = {	# 624 - Aktau
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 625 - Bailjar
+625 = {	# 625 - Bailjar
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 627 - Kyzyl-Su
+627 = {	# 627 - Kyzyl-Su
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 631 - Yangadzha
+631 = {	# 631 - Yangadzha
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 900 - Yangikent
+900 = {	# 900 - Yangikent
+	
+	# Misc
+	culture = kazakh
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7065 - Qoshagyl
+7065 = {	# 7065 - Qoshagyl
+	
+	# Misc
+	culture = kazakh
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		culture = kazakh
+	}
+}
+
+# 7066 - Azgyl
+7066 = {	# 7066 - Azgyl
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7067 - Issenjau
+7067 = {	# 7067 - Issenjau
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7068 - Namastau
+7068 = {	# 7068 - Namastau
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7069 - Asheh-Atrik
+7069 = {	# 7069 - Asheh-Atrik
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7070 - Kos-Buwak
+7070 = {	# 7070 - Kos-Buwak
+	
+	# Misc
+	culture = kazakh
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		culture = kazakh
+	}
+}
+
+# 7071 - Chumishtikul
+7071 = {	# 7071 - Chumishtikul
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7072 - Kumstan
+7072 = {	# 7072 - Kumstan
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7073 - Tengiz
+7073 = {	# 7073 - Tengiz
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7074 - Beyneu
+7074 = {	# 7074 - Beyneu
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7075 - Sam
+7075 = {	# 7075 - Sam
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7076 - Churuk
+7076 = {	# 7076 - Churuk
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7077 - Fort Novoaleksandrovkiy
+7077 = {	# 7077 - Fort Novoaleksandrovkiy
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7078 - Kajdak
+7078 = {	# 7078 - Kajdak
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7079 - Koizak
+7079 = {	# 7079 - Koizak
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7080 - Karasye
+7080 = {	# 70080 - Karasye
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7081 - Fort Aleksandrovkiy
+7081 = {	# 7081 - Fort Aleksandrovkiy
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7082 - Busaga
+7082 = {	# 7082 - Busaga
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7083 - Porsu-Burun
+7083 = {	# 7083 - Porsu-Burun
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7084 - Sai-Kule
+7084 = {	# 7084 - Sai-Kule
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7085 - Bekdas
+7085 = {	# 7085 - Bekdas
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7086 - Sumbe
+7086 = {	# 7086 - Sumbe
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7087 - Kum-Sebszen
+7087 = {	# 7087 - Kum-Sebszen
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7088 - Oglamych
+7088 = {	# 7088 - Oglamych
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7090 - Davlet-Girei
+7090 = {	# 7090 - Davlet-Girei
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7091 - Kulandy
+7091 = {	# 7091 - Kulandy
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7092 - Kugaral
+7092 = {	# 7092 - Kugaral
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7093 - Kashkarata
+7093 = {	# 7093 - Kashkarata
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+
+}
+
+# 7095 - Emba
+7095 = {	# 7095 - Emba
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7096 - Barsuki
+7096 = {	# 7096 - Barsuki
+	
+	# Misc
+	culture = kazakh
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		culture = kazakh
+	}
+}
+
+# 7097 - Agyspe
+7097 = {	# 7097 - Agypse
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7098 - Chushka-Kol
+7098 = {	# 7098 - Chushka-Köl/Chushka-Kol
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7099 - Airyuk
+7099 = {	# 7099 - Airyuk
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7100 - Irgis
+7100 = {	# 7100 - Irgis
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7102 - Zhelanash
+7102 = {	# 7102 - Zhelanash
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7103 - Terekli
+7103 = {	# 7103 - Terekli
+	
+	# Misc
+	culture = kazakh
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		culture = kazakh
+	}
+}
+
+# 7104 - Kalmas
+7104 = {	# 7104 - Kalmas
+	
+	# Misc
+	culture = kazakh
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		culture = kazakh
+	}
+}
+
+# 7105 - Chalkar
+7105 = {	# 7105 - Chalkar
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7106 - Chubar
+7106 = {	# 7106 - Chubar
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7107 - Arys-kum
+7107 = {	# 7107 - Arys-kum
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7108 - Tailyak-kul
+7108 = {	# 7108 - Tailyak-kul
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7109 - Dzangent
+7109 = {	# 7109 - Dzangent
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7110 - Kazalinsk
+7110 = {	# 7110 - Kazalinsk
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7111 - Raimskoe
+7111 = {	# 7111 - Raimskoe
+	
+	# Misc
+	culture = kazakh
+	religion = hanafi
+	
+	#holding = castle_holding
+	
+	# History
+	1066.1.1 = {
+		culture = kazakh
+	}
+}
+
+# 7112 - Kara-Mugai
+7112 = {	# 7112 - Kara-Mugai
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		culture = cuman
+	}
+}
+
+# 7114 - Buzai
+7114 = {	# 7114 - Buzaï/Buzai
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+}
+
+# 7115 - Koskul
+7115 = {	# 7115 - Koskul
+	
+	# Misc
+	culture = turkmeni
+	religion = hanafi
+	
+	holding = none
+	
+	# History
+	1066.1.1 = {
+		religion = hanafi
+	}
+
+}
+

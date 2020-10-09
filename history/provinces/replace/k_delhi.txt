@@ -3,7 +3,7 @@
 	
 	# Misc
 	culture = hindustani
-	religion = vajrayana
+	religion = vaishnavism
 	
 	# History
 
@@ -13,8 +13,8 @@
 1168 = {	# 1168 - Mandawar
 	
 	# Misc
-	culture = hindustani
-	religion = vajrayana
+	culture = garhwali
+	religion = vaishnavism
 	
 	# History
 
@@ -25,7 +25,7 @@
 	
 	# Misc
 	culture = hindustani
-	religion = vajrayana
+	religion = vaishnavism
 	
 	# History
 
@@ -35,8 +35,8 @@
 1352 = {	# 1352 - Sarasvati
 	
 	# Misc
-	culture = hindustani
-	religion = kalikula_shaktism
+	culture = punjabi
+	religion = sikhism
 	terrain = jungle
 	
 	# History
@@ -48,7 +48,7 @@
 	
 	# Misc
 	culture = hindustani
-	religion = svetambara
+	religion = vaishnavism
 	
 	# History
 
@@ -59,7 +59,7 @@
 	
 	# Misc
 	culture = hindustani
-	religion = vajrayana
+	religion = vaishnavism
 	
 	# History
 
@@ -70,7 +70,7 @@
 	
 	# Misc
 	culture = hindustani
-	religion = svetambara
+	religion = vaishnavism
 	
 	# History
 
@@ -80,8 +80,8 @@
 1364 = {	# 1364 - Tribandapura
 	
 	# Misc
-	culture = hindustani
-	religion = kalikula_shaktism
+	culture = punjabi
+	religion = sikhism
 	
 	# History
 
@@ -92,7 +92,7 @@
 	
 	# Misc
 	culture = hindustani
-	religion = vajrayana
+	religion = vaishnavism
 	
 	# History
 	769.1.1 = {
@@ -106,7 +106,7 @@
 	
 	# Misc
 	culture = hindustani
-	religion = svetambara
+	religion = vaishnavism
 	
 	# History
 
@@ -117,7 +117,7 @@
 	
 	# Misc
 	culture = hindustani
-	religion = vajrayana
+	religion = vaishnavism
 	
 	# History
 
@@ -128,7 +128,7 @@
 	
 	# Misc
 	culture = hindustani
-	religion = vajrayana
+	religion = vaishnavism
 	
 	# History
 
