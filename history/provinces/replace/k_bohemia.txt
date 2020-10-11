@@ -1,0 +1,139 @@
+# 3080 - MIKULOV
+3080 = {	# 446 - Znojmo
+	
+	
+	# Misc
+	culture = slovien
+	religion = religion = modernist
+	
+	# History
+	
+	831.1.1 = { religion = modernist }
+	1030.1.1 = { culture = czech }
+	
+	#german colonization of southern parts
+	1160.1.1 = { culture = german }
+	
+}
+
+# 4165 - Olomouc
+4165 = {	# 4165 - Olomouc
+	
+	
+	# Misc
+	culture = slovien
+	religion = religion = modernist
+	
+	# History
+	
+	831.1.1 = { religion = modernist }
+	1030.1.1 = { culture = czech }
+	
+	
+}
+
+# 4125 - Praha
+4125 = {	
+	# Misc
+	culture = czech
+	religion = religion = modernist
+	
+	# History
+	883.1.1 = { religion = modernist }
+
+}
+
+# 4161 - Caslav
+4161 = {	
+	# Misc
+	culture = czech
+	religion = religion = modernist
+	
+	# History
+	867.1.1 = {
+		#holding = castle_holding
+		special_building_slot = kutna_hora_mines_01
+	}
+	883.1.1 = { religion = modernist }
+	1000.1.1 = {
+		special_building = kutna_hora_mines_01
+	}
+}
+
+4138 = {
+
+	culture = czech
+	religion = modernist
+	
+}
+
+4136 = {
+
+	culture = czech
+	religion = modernist
+	
+}
+
+4129 = {
+
+	culture = czech
+	religion = modernist
+	
+}
+
+4147 = {
+
+	culture = czech
+	religion = modernist
+	
+}
+
+4145 = {
+
+	culture = czech
+	religion = evangelical
+	
+}
+
+4154 = {
+
+	culture = czech
+	religion = evangelical
+	
+}
+
+4162 = {
+
+	culture = czech
+	religion = evangelical
+	
+}
+
+
+4168 = {
+
+	culture = czech
+	religion = modernist
+	
+}
+
+4166 = {
+
+	culture = czech
+	religion = evangelical
+	
+}
+
+4182 = {
+
+	culture = czech
+	religion = modernist
+	
+}
+
+4184 = {
+
+	culture = czech
+	religion = modernist
+	
+}

@@ -13,8 +13,8 @@
 6846 = {	# 6846 - FELLATA
 	
 	# Misc
-	culture = sao
-	religion = west_african_bori_pagan
+	culture = bagirmi
+	religion = afroprot
 	
 	# History
 
@@ -62,11 +62,11 @@
 	
 	# Misc
 	culture = zaghawa
-	religion = west_african_bori_pagan
+	religion = hanafi
 	
 	# History
-	#1097.1.1 = { religion = ashari }
-	#1120.1.1 = { culture = kanuri }
+	#1097.1.1 = { religion = hanafi }
+	#1120.1.1 = { culture = zaghawa }
 
 }
 
@@ -88,11 +88,11 @@
 	
 	# Misc
 	culture = zaghawa
-	religion = west_african_bori_pagan
+	religion = hanafi
 	
 	# History
-	#1097.1.1 = { religion = ashari }
-	#1120.1.1 = { culture = kanuri }
+	#1097.1.1 = { religion = hanafi }
+	#1120.1.1 = { culture = zaghawa }
 
 }
 
@@ -113,12 +113,12 @@
 6854 = {	# 6854 - KADAM
 	
 	# Misc
-	culture = zaghawa
-	religion = west_african_bori_pagan
+	culture = bagirmi
+	religion = afroprot
 	
 	# History
-	#1097.1.1 = { religion = ashari }
-	#1120.1.1 = { culture = kanuri }
+	#1097.1.1 = { religion = afroprot }
+	#1120.1.1 = { culture = bagirmi }
 
 }
 
@@ -139,11 +139,11 @@
 6860 = {	# 6860 - GOZ_BEIDA
 	
 	# Misc
-	culture = zaghawa
-	religion = west_african_bori_pagan
+	culture = bagirmi
+	religion = afroprot
 	
 	# History
-	#1097.1.1 = { religion = ashari }
+	#1097.1.1 = { religion = afroprot }
 
 }
 
@@ -176,10 +176,10 @@
 	
 	# Misc
 	culture = zaghawa
-	religion = west_african_bori_pagan
+	religion = hanafi
 	
 	# History
-	1150.1.1 = { religion = ashari }
+	1150.1.1 = { religion = hanafi }
 
 }
 
@@ -199,11 +199,11 @@
 6865 = {	# 6865 - MASALIT
 	
 	# Misc
-	culture = daju
-	religion = kushitism_pagan
+	culture = azande
+	religion = afroprot
 	
 	# History
-	#1150.1.1 = { religion = ashari }
+	#1150.1.1 = { religion = afroprot }
 
 }
 
@@ -247,11 +247,11 @@
 6869 = {	# 6869 - EL-FASHER
 	
 	# Misc
-	culture = daju
-	religion = kushitism_pagan
+	culture = azande
+	religion = afroprot
 	
 	# History
-	#1150.1.1 = { religion = ashari }
+	#1150.1.1 = { religion = afroprot }
 
 }
 
@@ -271,11 +271,11 @@
 6871 = {	# 6871 - DAR_WONA
 	
 	# Misc
-	culture = daju
-	religion = kushitism_pagan
+	culture = azande
+	religion = afroprot
 	
 	# History
-	#1150.1.1 = { religion = ashari }
+	#1150.1.1 = { religion = afroprot }
 
 }
 
@@ -319,11 +319,11 @@
 6875 = {	# 6875 - AIN_FARAH
 	
 	# Misc
-	culture = daju
-	religion = kushitism_pagan
+	culture = azande
+	religion = afroprot
 	
 	# History
-	1150.1.1 = { religion = ashari }
+	1150.1.1 = { religion = afroprot }
 
 }
 
@@ -331,11 +331,11 @@
 6876 = {	# 6876 - MAO_DARFUR
 	
 	# Misc
-	culture = daju
-	religion = kushitism_pagan
+	culture = azande
+	religion = afroprot
 	
 	# History
-	#1150.1.1 = { religion = ashari }
+	#1150.1.1 = { religion = afroprot }
 
 }
 
@@ -367,11 +367,11 @@
 6879 = {	# 6879 - UMM_GAFALA
 	
 	# Misc
-	culture = daju
-	religion = kushitism_pagan
+	culture = azande
+	religion = afroprot
 	
 	# History
-	#1150.1.1 = { religion = ashari }
+	#1150.1.1 = { religion = afroprot }
 
 }
 
@@ -391,11 +391,11 @@
 6881 = {	# 6881 - EN_NAHUD
 	
 	# Misc
-	culture = daju
-	religion = kushitism_pagan
+	culture = azande
+	religion = afroprot
 	
 	# History
-	#1150.1.1 = { religion = ashari }
+	#1150.1.1 = { religion = afroprot }
 
 }
 
@@ -415,8 +415,8 @@
 6883 = {	# 6883 - EL-OBEID
 	
 	# Misc
-	culture = daju
-	religion = coptic
+	culture = azande
+	religion = afroprot
 	
 	# History
 	
@@ -511,11 +511,11 @@
 6891 = {	# 6891 - TUREIQ
 	
 	# Misc
-	culture = daju
-	religion = kushitism_pagan
+	culture = azande
+	religion = afroprot
 	
 	# History
-	#1150.1.1 = { religion = ashari }
+	#1150.1.1 = { religion = afroprot }
 
 }
 
@@ -583,11 +583,11 @@
 6898 = {	# 6898 - SHATT
 	
 	# Misc
-	culture = daju
-	religion = kushitism_pagan
+	culture = azande
+	religion = afroprot
 	
 	# History
-	#1150.1.1 = { religion = ashari }
+	#1150.1.1 = { religion = afroprot }
 
 }
 

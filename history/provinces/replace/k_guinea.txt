@@ -1,0 +1,73 @@
+# 8178 - TAMISO
+8178 = {	# 8178 - TAMISO
+	
+	# Misc
+	culture = malinke
+	religion = hanafi
+	
+	# History
+
+}
+
+8189 = {
+
+	culture = malinke
+	religion = hanafi
+	
+}
+
+8275 = {
+
+	culture = malinke
+	religion = hanafi
+	
+}
+
+8199 = {
+
+	culture = malinke
+	religion = animist
+	
+}
+
+8205 = {
+
+	culture = fulani
+	religion = animist
+	
+}
+
+8204 = {
+
+	culture = fulani
+	religion = animist
+	
+}
+
+8203 = {
+
+	culture = fulani
+	religion = animist
+	
+}
+
+8217 = {
+
+	culture = malinke
+	religion = animist
+	
+}
+
+8218 = {
+
+	culture = malinke
+	religion = animist
+	
+}
+
+8168 = {
+
+	culture = malinke
+	religion = animist
+	
+}

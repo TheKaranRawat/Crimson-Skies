@@ -1,0 +1,177 @@
+# 8301 - LALIBELA
+8301 = {
+	# Misc
+	culture = ethiopian
+	religion = coptic
+	
+	# History
+}
+
+# 8304 - SEMIEN
+8304 = {
+	# Misc
+	culture = ethiopian
+	religion = haymanot
+	
+	# History
+}
+
+# 8336 - DABAHU
+8336 = {
+	# Misc
+	culture = afar
+	religion = waaqism_pagan
+	
+	# History
+	#1030.1.1 = { religion = ashari }
+}
+
+# 8349 - SILALISH
+8349 = {
+	# Misc
+	culture = ethiopian
+	religion = coptic
+	
+	# History
+	890.1.1 = { religion = ashari }
+}
+
+8283 = {
+
+	culture = afar
+	religion = coptic
+	
+}
+
+8278 = {
+
+	culture = afar
+	religion = coptic
+	
+}
+
+8294 = {
+
+	culture = afar
+	religion = coptic
+	
+}
+
+8280 = {
+
+	culture = afar
+	religion = coptic
+	
+}
+
+8286 = {
+
+	culture = afar
+	religion = coptic
+	
+}
+
+8289 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8301 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8303 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8312 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8309 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8308 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8326 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8324 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8321 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8371 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8366 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8352 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8364 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8378 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8347 = {
+
+	culture = oromo
+	religion = coptic
+	
+}

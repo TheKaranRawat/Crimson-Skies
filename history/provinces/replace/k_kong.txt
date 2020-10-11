@@ -1,0 +1,78 @@
+# 8147 - WORODUGU
+8147 = {
+	# Misc
+	culture = malinke
+	religion = vodun
+	# History
+}
+
+6980 = {
+	
+	culture = malinke
+	religion = vodun
+	
+}
+
+6984 = {
+	
+	culture = malinke
+	religion = vodun
+	
+}
+
+6976 = {
+	
+	culture = malinke
+	religion = animist
+	
+}
+
+8139 = {
+	
+	culture = malinke
+	religion = animist
+	
+}
+
+
+8131 = {
+	
+	culture = malinke
+	religion = afroprot
+	
+}
+
+6977 = {
+	
+	culture = malinke
+	religion = afroprot
+	
+}
+
+6960 = {
+	
+	culture = mossi
+	religion = animist
+	
+}
+
+6973 = {
+	
+	culture = mossi
+	religion = animist
+	
+}
+
+6954 = {
+	
+	culture = mossi
+	religion = animist
+	
+}
+
+6956 = {
+	
+	culture = mossi
+	religion = animist
+	
+}

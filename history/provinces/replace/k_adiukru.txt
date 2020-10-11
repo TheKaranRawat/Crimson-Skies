@@ -1,0 +1,64 @@
+﻿# 8222 - WENYON
+8222 = {
+	# Misc
+	culture = yoruba
+	religion = evangelical
+	
+	# History
+}
+
+8025 = {
+	
+	culture = yoruba
+	religion = pentecostal
+	
+}
+
+8137 = {
+	
+	culture = yoruba
+	religion = pentecostal
+	
+}
+
+8144 = {
+	
+	culture = yoruba
+	religion = pentecostal
+	
+}
+
+8207 = {
+	
+	culture = yoruba
+	religion = pentecostal
+	
+}
+
+8231 = {
+	
+	culture = yoruba
+	religion = pentecostal
+	
+}
+
+8208 = {
+	
+	culture = yoruba
+	religion = evangelical
+	
+}
+
+8229 = {
+	
+	culture = yoruba
+	religion = evangelical
+	
+}
+
+8220 = {
+	
+	culture = yoruba
+	religion = evangelical
+	
+}

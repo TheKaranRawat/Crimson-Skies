@@ -294,8 +294,8 @@
 			}
 		}
 		
-		franconian = {
-			color = { 0.8 0.8 0.6 }
+		francian = {
+			color = { 0.3 0.8 0.6 }
 			religious_head = k_papal_state
 			graphical_faith = "catholic_gfx"
 			
@@ -369,7 +369,7 @@
 		}
 		
 		jesuit = {
-			color = { 0.8 0.8 0.6 }
+			color = { 0.4 0.6 0.6 }
 			religious_head = k_papal_state
 			graphical_faith = "catholic_gfx"
 			
@@ -443,7 +443,7 @@
 		}
 		
 		katholische = {
-			color = { 0.8 0.8 0.6 }
+			color = { 0.4 0.5 0.9 }
 			religious_head = k_papal_state
 			graphical_faith = "catholic_gfx"
 			
@@ -671,7 +671,7 @@
 		
 		# ultra orthodox
 		ultroth = {
-			color = { 0.7 0 0.5 }
+			color = { 0.2 0 0.2 }
 			religious_head = k_orthodox
 			
 			holy_site = jerusalem
@@ -1123,7 +1123,7 @@
 		}
 		
 		presbyterian = {
-			color = { 0.0 0.2 0.8 }
+			color = { 0.1 0.2 0.5 }
 			
 			graphical_faith = "catholic_gfx"
 			
@@ -2453,7 +2453,7 @@
 		##second schism
 		
 		revelationist = {
-			color = { 0.8 0.8 0.6 }
+			color = { 0.1 0.1 0.1 }
 			religious_head = k_heaven
 			graphical_faith = "catholic_gfx"
 			

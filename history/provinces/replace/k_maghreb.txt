@@ -55,7 +55,7 @@
 	# Misc
 	culture = tunisian
 	#culture = sanhaja
-	religion = hanafi
+	religion = maliki
 	
 	# History
 
@@ -91,7 +91,7 @@
 	# Misc
 	culture = moroccan
 	#culture = sanhaja
-	religion = hanafi
+	religion = maliki
 	
 	# History
 	#973.1.1 = { culture = moroccan }
@@ -106,11 +106,11 @@
 	# Misc
 	culture = moroccan
 	#culture = masmuda
-	religion = hanafi
+	religion = maliki
 	
 	# History
 
-	1139.1.1 = { religion = hanafi }
+	1139.1.1 = { religion = maliki }
 
 }
 
@@ -120,7 +120,7 @@
 	# Misc
 	culture = moroccan
 	#culture = masmuda
-	religion = hanafi
+	religion = maliki
 	
 	# History
 
@@ -131,7 +131,7 @@
 	# Misc
 	culture = moroccan
 	#culture = masmuda
-	religion = hanafi
+	religion = maliki
 	
 	# History
 	1070.1.1 = { religion = ashari }
@@ -156,7 +156,7 @@
 	# Misc
 	culture = moroccan
 	#culture = tagelmust
-	religion = hanafi
+	religion = maliki
 	
 	holding = tribal_holding
 	
@@ -229,11 +229,11 @@
 	# Misc
 	culture = algerian
 	#culture = zanata
-	religion = hanafi
+	religion = maliki
 	
 	# History
 	955.1.1 = {
-		religion = hanafi
+		religion = maliki
 	}
 
 }
@@ -244,12 +244,12 @@
 	# Misc
 	culture = libyan
 	#culture = zanata
-	religion = hanafi
+	religion = maliki
 	
 	# History
 	1055.1.1 = {
 		culture = libyan
-		religion = hanafi
+		religion = maliki
 	}
 
 }
@@ -260,13 +260,13 @@
 	# Misc
 	culture = tuareg
 	#culture = tagelmust
-	religion = hanafi
+	religion = maliki
 	
 	holding = tribal_holding
 	
 	# History
 	1055.1.1 = {
-		religion = hanafi
+		religion = maliki
 	}
 }
 
@@ -286,126 +286,126 @@
 4639 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4677 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4678 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4745 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4709 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4736 = {
 
 	culture = tuareg
-	religion = hanafi
+	religion = maliki
 
 }
 
 4724 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4718 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4703 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4700 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4677 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4678 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4745 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4709 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4736 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4724 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4718 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4703 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
@@ -419,13 +419,13 @@
 4706 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4699 = {
 
 	culture = moroccan
-	religion = hanafi
+	religion = maliki
 
 }

@@ -2,9 +2,9 @@
 4570 = {	# 4570 - GHADAMES
 	
 	# Misc
-	culture = butr
+	culture = libyan
 	#culture = zanata
-	religion = ibadi
+	religion = maliki
 	
 	holding = tribal_holding
 	
@@ -61,7 +61,7 @@
 	
 	# Misc
 	culture = tunisian
-	religion = hanafi
+	religion = maliki
 	terrain = plains
 	
 	# History
@@ -74,7 +74,7 @@
 	# Misc
 	culture = tunisian
 	#culture = sanhaja
-	religion = hanafi
+	religion = maliki
 	
 	holding = tribal_holding
 	
@@ -90,11 +90,11 @@
 	# Misc
 	culture = tunisian
 	#culture = zanata
-	religion = hanafi
+	religion = maliki
 	
 	# History
 	1055.1.1 = {
-		religion = hanafi
+		religion = maliki
 		culture = tunisian
 	}
 
@@ -103,63 +103,63 @@
 4562 = {
 
 	culture = libyan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4563 = {
 
 	culture = libyan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4556 = {
 
 	culture = libyan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4557 = {
 
 	culture = libyan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4561 = {
 
 	culture = libyan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4572 = {
 
 	culture = libyan
-	religion = hanafi
+	religion = maliki
 
 }
 
 4578 = {
 
 	culture = tunisian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4589 = {
 
 	culture = tunisian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4585 = {
 
 	culture = tunisian
-	religion = hanafi
+	religion = maliki
 
 }
 
@@ -167,33 +167,33 @@
 4573 = {
 
 	culture = tunisian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4604 = {
 
 	culture = tunisian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4601 = {
 
 	culture = tunisian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4588 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 }
 
 4631 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 	
 }

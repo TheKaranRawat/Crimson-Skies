@@ -2,7 +2,7 @@
 511 = {	# 511 - Galati
 	
 	culture = romanian
-	religion = commorthodox
+	religion = catholic
 	
 	#holding = castle_holding
 	
@@ -16,7 +16,7 @@
 # 512 - Cetatea Alba
 512 = {	# 512 - Cetatea Alba
 	
-	culture = ukrainian
+	culture = bolghar
 	religion = commorthodox
 	
 	#holding = castle_holding
@@ -26,7 +26,7 @@
 		holding = castle_holding
 	}
 	1000.1.1 = {
-		culture = ukrainian
+		culture = romanian
 	}
 }
 
@@ -66,7 +66,7 @@
 545 = {	# 545 - Suceava
 	
 	culture = romanian
-	religion = slavic_pagan
+	religion = commorthodox
 	
 	#holding = castle_holding
 	
@@ -178,7 +178,7 @@
 # 5017 - Lapusna
 5017 = {	# 5017 - Lapusna
 	
-	culture = ukrainian
+	culture = romanian
 	religion = slavic_pagan
 	
 	#holding = castle_holding
@@ -210,7 +210,7 @@
 # 5019 - Orhei
 5019 = {	# 5019 - Orhei
 	
-	culture = ukrainian
+	culture = romanian
 	religion = slavic_pagan
 	
 	#holding = castle_holding
@@ -242,7 +242,7 @@
 # 5021 - Soroca
 5021 = {	# 5021 - Soroca
 	
-	culture = ukrainian
+	culture = romanian
 	religion = slavic_pagan
 	
 	#holding = castle_holding
@@ -366,7 +366,7 @@
 # 5029 - Stoenesti
 5029 = {	# 5029 - Stoenesti
 	
-	culture = romanian
+	culture = bolghar
 	religion = slavic_pagan
 	
 	#holding = castle_holding
@@ -552,8 +552,8 @@
 # 5040 - Hotin
 5040 = {	# 5040 - Hotin
 	
-	culture = ukrainian
-	religion = slavic_pagan
+	culture = romanian
+	religion = commorthodox
 	
 	#holding = castle_holding
 	

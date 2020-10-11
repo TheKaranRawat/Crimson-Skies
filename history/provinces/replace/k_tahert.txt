@@ -52,7 +52,7 @@
 	# Misc
 	culture = algerian
 	#culture = tagelmust
-	religion = hanafi
+	religion = maliki
 	
 	holding = tribal_holding
 	
@@ -68,7 +68,7 @@
 	# Misc
 	culture = algerian
 	#culture = zanata
-	religion = hanafi
+	religion = maliki
 	
 	# History
 
@@ -80,7 +80,7 @@
 	# Misc
 	culture = algerian
 	#culture = tagelmust
-	religion = hanafi
+	religion = maliki
 	
 	holding = tribal_holding
 	
@@ -93,7 +93,7 @@
 4634 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 
 }
 
@@ -102,63 +102,63 @@
 4669 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4637 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4644 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4647 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4659 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4653 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4655 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4666 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 
 }
 
 4672 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 
 }
 
@@ -166,7 +166,7 @@
 4674 = {
 
 	culture = algerian
-	religion = hanafi
+	religion = maliki
 
 }
 

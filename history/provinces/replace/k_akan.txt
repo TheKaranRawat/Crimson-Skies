@@ -1,0 +1,106 @@
+# 8000 - GANEBOAFO
+8000 = {
+	# Misc
+	culture = yoruba
+	religion = afroprot
+	# History	
+}
+
+# 8009 - KUMASI
+8009 = {
+	# Misc
+	culture = akan
+	religion = akom_pagan
+	# History
+}
+
+8006 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8031 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8030 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8018 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8013 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8022 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8009 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+6967 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8027 = {
+
+	culture = yoruba
+	religion = pentecostal
+	
+}
+
+6962 = {
+
+	culture = yoruba
+	religion = animist
+	
+}
+
+6964 = {
+
+	culture = mossi
+	religion = animist
+	
+}
+
+6970 = {
+
+	culture = mossi
+	religion = animist
+	
+}
+
+8001 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}

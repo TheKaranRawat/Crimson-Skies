@@ -1,0 +1,133 @@
+# 8068 - ILE-IFE
+8068 = {	# 8068 - ILE-IFE
+	
+	# Misc
+	culture = yoruba
+	religion = afroprot
+	
+	# History
+
+}
+
+# 8071 - BENIN
+8071 = {	# 8071 - BENIN
+	
+	# Misc
+	culture = edo
+	religion = west_african_orisha_pagan
+	
+	# History
+
+}
+
+# 8072 - BENIN CITY
+8072 = {	# 8072 - BENIN CITY
+	
+	# Misc
+	culture = yoruba
+	religion = catholic
+	
+	# History
+	867.1.1 = {
+		special_building_slot = walls_of_benin_01
+	}
+
+}
+
+8073 = {
+
+	culture = yoruba
+	religion = catholic
+		
+}
+
+8072 = {
+
+	culture = yoruba
+	religion = catholic
+		
+}
+
+8079 = {
+
+	culture = yoruba
+	religion = afroprot
+		
+}
+
+8068 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8066 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+6911 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+6912 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8062 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8065 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8055 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8051 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8050 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8040 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8081 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}

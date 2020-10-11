@@ -1,0 +1,313 @@
+# 8332 - EDD
+8332 = {
+	# Misc
+	culture = afar
+	religion = hanafi
+	
+	# History
+	#1030.1.1 = { religion = ashari }
+}
+
+# 8400 - ZAILA
+8400 = {
+	# Misc
+	culture = somali
+	religion = hanafi
+	
+	# History
+}
+
+# 8414 - DAWARO
+8414 = {
+	# Misc
+	culture = somali
+	religion = waaqism_pagan
+	
+	# History
+	1030.1.1 = { religion = ashari }
+}
+
+8332 = {
+
+	culture = afar
+	religion = zayidi
+	
+}
+
+8334 = {
+
+	culture = afar
+	religion = coptic
+	
+}
+
+8339 = {
+
+	culture = afar
+	religion = coptic
+	
+}
+
+8344 = {
+
+	culture = dir
+	religion = coptic
+	
+}
+
+8392 = {
+
+	culture = dir
+	religion = coptic
+	
+}
+
+8395 = {
+
+	culture = darod
+	religion = coptic
+	
+}
+
+
+8342 = {
+
+	culture = dir
+	religion = zayidi
+	
+}
+
+8400 = {
+
+	culture = dir
+	religion = zayidi
+	
+}
+
+8406 = {
+
+	culture = dir
+	religion = shafii
+	
+}
+
+8404 = {
+
+	culture = dir
+	religion = zayidi
+	
+}
+
+8424 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8420 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8408 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8407 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8413 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8354 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8425 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8430 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8432 = {
+
+	culture = darod
+	religion = imami
+	
+}
+
+8509 = {
+
+	culture = darod
+	religion = imami
+	
+}
+
+8504 = {
+
+	culture = darod
+	religion = imami
+	
+}
+
+8512 = {
+
+	culture = darod
+	religion = imami
+	
+}
+
+8466 = {
+
+	culture = hawiya
+	religion = imami
+	
+}
+
+8470 = {
+
+	culture = hawiya
+	religion = imami
+	
+}
+
+8469 = {
+
+	culture = hawiya
+	religion = shafii
+	
+}
+
+8463 = {
+
+	culture = hawiya
+	religion = shafii
+	
+}
+
+8458 = {
+
+	culture = hawiya
+	religion = shafii
+	
+}
+
+8473 = {
+
+	culture = hawiya
+	religion = shafii
+	
+}
+
+8499 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8468 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8457 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8492 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8455 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8481 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+8480 = {
+
+	culture = hawiya
+	religion = shafii
+	
+}
+
+8488 = {
+
+	culture = hawiya
+	religion = shafii
+	
+}
+
+8451 = {
+
+	culture = hawiya
+	religion = shafii
+	
+}
+
+8452 = {
+
+	culture = hawiya
+	religion = shafii
+	
+}
+
+8383 = {
+
+	culture = hawiya
+	religion = shafii
+	
+}
+
+8421 = {
+
+	culture = darod
+	religion = shafii
+	
+}
+
+
+
+

@@ -381,4 +381,79 @@
 			5 = caucasian_northern_dark_hair
 		}
 	}
+	
+	karjala = {
+		color = { 0.2 0.3 0.6 }
+
+		cadet_dynasty_names = {
+			{ "dynn_Okain" }
+			{ "dynn_Tesha" }
+			{ "dynn_Seres" }
+			{ "dynn_Lyush" }
+			{ "dynn_Ilven" }
+			{ "dynn_Sorkor" }
+			{ "dynn_Dubol" }
+			{ "dynn_Lebedi" }
+			{ "dynn_Pra" }
+			{ "dynn_Zadey" }
+			{ "dynn_Perki" }
+			{ "dynn_Solosh" }
+			{ "dynn_Otok" }
+			{ "dynn_Luko" }
+			{ "dynn_Voja" }
+			{ "dynn_Tsnan" }
+			{ "dynn_Senka" }
+			{ "dynn_Olkhi" }
+			{ "dynn_Susha" }
+			{ "dynn_Voronor" }
+			{ "dynn_Uupa" }
+		}
+		
+		dynasty_names = {
+			{ "dynn_Okain" }
+			{ "dynn_Tesha" }
+			{ "dynn_Seres" }
+			{ "dynn_Lyush" }
+			{ "dynn_Ilven" }
+			{ "dynn_Sorkor" }
+			{ "dynn_Dubol" }
+			{ "dynn_Lebedi" }
+			{ "dynn_Pra" }
+			{ "dynn_Zadey" }
+			{ "dynn_Perki" }
+			{ "dynn_Solosh" }
+			{ "dynn_Otok" }
+			{ "dynn_Luko" }
+			{ "dynn_Voja" }
+			{ "dynn_Tsnan" }
+			{ "dynn_Senka" }
+			{ "dynn_Olkhi" }
+			{ "dynn_Susha" }
+			{ "dynn_Voronor" }
+			{ "dynn_Uupa" }
+		}
+		
+
+		male_names = {
+			Alyok Aydush Aygobek Ayplat Azyren Chichayka Chotkar Dergun Deryab Echan Elyksan Evdyuk Ilip Izerge Izi Kavri KU_rntnypatyr Kystynchi
+			Laidemyr Lapkas Maska Mikal Miklai Mikypyr Mitryai Nekhot Nishkepaz Nuyat Opanas Osherge Ozanay Pakstyan Pinyas Pokshayka
+			Saksa Shindyay Shemvuy Shkay Shoksha Shumat Sokhron Stapan Surt Torkan Tunya Tylze Tyushten Tyushtya Uchva Uzhara
+			Varaka Varash Varmanpaz VO_dyr Vasyuk Vechkas Velmayka Vikay Viryas Yamshan Yapyk Yolagay YU_kserge Yumpatyr YU_shterge
+		}
+		female_names = {
+			Anava Anka Ashava Astalche Aybi Bedasi Chechama Chenksa Cherava Cheymarina Elika Elyuva Evika Kachyrii Kanyuva Kechevi KugU_dyr Kunava
+			Maira Mastorava Megurka Mel_shay Nezayka Noroava Nulzyava Nuyanza Nyayka Oksya Olyu Orina Oshama Pashache Pekshayka Potyava PO_kla
+			Salika Sangasa Serzhay Shonzhava Shukshtoroyka Shymay Tachana Unzhutka Utyayka Uviy Valdonya Vergava Yalgava YU_ksU_dyr
+		}
+		dynasty_of_location_prefix = "dynnp_of"
+		#founder_named_dynasties = yes
+
+		ethnicities = {
+			70 = caucasian_northern_blond
+			15 = caucasian_northern_ginger
+			10 = caucasian_northern_brown_hair
+			5 = caucasian_northern_dark_hair
+		}
+	}
+	
 }

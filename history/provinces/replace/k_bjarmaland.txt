@@ -137,8 +137,8 @@
 5807 = {	# 5807 - Povenets
 	
 	# Misc
-	culture = russian
-	religion = orthodox
+	culture = karjala
+	religion = finn_shaman
 	
 	#holding = castle_holding
 	

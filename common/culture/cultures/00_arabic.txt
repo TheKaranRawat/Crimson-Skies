@@ -208,9 +208,9 @@
 		}
 	}
 	
-	hawiya = {
+	hawiya1 = {
 		
-		color = { 0.1 0.75 0.1 }
+		color = { 0.3 0.35 0.2 }
 
 		cadet_dynasty_names = {
 			"dynn_Rasulid"
@@ -405,9 +405,9 @@
 		}
 	}
 	
-	darod = {
+	darod1 = {
 		
-		color = { 0.1 0.75 0.1 }
+		color = { 0.4 0.75 0.3 }
 
 		cadet_dynasty_names = {
 			"dynn_Rasulid"
@@ -799,9 +799,9 @@
 		}
 	}
 	
-	dir = {
+	dir1 = {
 		
-		color = { 0.1 0.75 0.1 }
+		color = { 0.2 0.25 0.5 }
 
 		cadet_dynasty_names = {
 			"dynn_Rasulid"

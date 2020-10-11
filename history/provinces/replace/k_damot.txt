@@ -1,0 +1,96 @@
+# 8356 - HADYA
+8356 = {
+	# Misc
+	culture = ethiopian
+	religion = waaqism_pagan
+	
+	# History
+	1140.1.1 = { religion = ashari }
+}
+
+# 8436 - KAFFA
+8436 = {
+	# Misc
+	culture = welayta
+	religion = waaqism_pagan
+	
+	# History
+	#1030.1.1 = { religion = ashari }
+}
+
+8387 = {
+
+	culture = oromo
+	religion = coptic
+	
+}
+
+8376 = {
+
+	culture = amhara
+	religion = coptic
+	
+}
+
+8377 = {
+
+	culture = amhara
+	religion = coptic
+	
+}
+
+8362 = {
+
+	culture = amhara
+	religion = evangelical
+	
+}
+
+8435 = {
+
+	culture = amhara
+	religion = evangelical
+	
+}
+
+8356 = {
+
+	culture = amhara
+	religion = evangelical
+	
+}
+
+8358 = {
+
+	culture = amhara
+	religion = evangelical
+	
+}
+
+8355 = {
+
+	culture = amhara
+	religion = evangelical
+	
+}
+
+8517 = {
+
+	culture = hawiya
+	religion = evangelical
+	
+}
+
+8360 = {
+
+	culture = amhara
+	religion = evangelical
+	
+}
+
+8379 = {
+
+	culture = hawiya
+	religion = evangelical
+	
+}

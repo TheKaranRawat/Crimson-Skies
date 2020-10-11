@@ -496,7 +496,7 @@
 	
 	piedmontese = {
 	
-		color = { 0.95 0.95 0.55 }
+		color = { 0.35 0.55 0.55 }
 
 		cadet_dynasty_names = {
 			"dynn_Bentivoglio"
@@ -693,7 +693,7 @@
 	
 	venetian = {
 	
-		color = { 0.95 0.95 0.55 }
+		color = { 0.95 0.45 0.15 }
 
 		cadet_dynasty_names = {
 			"dynn_Bentivoglio"
@@ -1309,7 +1309,7 @@
 	
 	neopolitan = {
 		
-		color = { 0.65 0.65 0.2 }
+		color = { 0.35 0.65 0.9 }
 
 		cadet_dynasty_names = {
 			"dynn_Gesualdu"
@@ -1527,7 +1527,7 @@
 
 	lombard = {
 		
-		color = { 0.8 0.8 0.5 }
+		color = { 0.3 0.1 0.8 }
 
 		cadet_dynasty_names = {
 			"dynn_Lethings"

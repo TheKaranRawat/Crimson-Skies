@@ -1,0 +1,119 @@
+# 6717 - MADEKALI
+6717 = {	# 6717 - MADEKALI
+	
+	# Misc
+	culture = sorko
+	religion = west_african_orisha_pagan
+	
+	# History
+	#1250.1.1 = { culture = mossi }
+
+}
+
+# 6718 - BUSA
+6718 = {	# 6718 - BUSA
+	
+	# Misc
+	culture = yoruba
+	religion = afroprot
+	
+	# History
+	#1250.1.1 = { culture = yoruba }
+
+}
+
+# 6915 - KAOJE
+6915 = {	# 6915 - KAOJE
+	
+	# Misc
+	culture = sorko
+	religion = west_african_orisha_pagan
+	
+	# History
+	#1250.1.1 = { culture = mossi }
+
+}
+
+# 6916 - ILO
+6916 = {	# 6916 - ILO
+	
+	# Misc
+	culture = sorko
+	religion = west_african_orisha_pagan
+	
+	# History
+	#1250.1.1 = { culture = mossi }
+
+}
+
+# 8034 - TODO
+8034 = {
+	# Misc
+	culture = ewe
+	religion = west_african_orisha_pagan
+	# History
+}
+
+	# 8068 - ILE-IFE
+8068 = {
+	# Misc
+	culture = yoruba
+	religion = west_african_orisha_pagan
+	# History
+}
+
+6922 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8048 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8046 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8034 = {
+
+	culture = yoruba
+	religion = afroprot
+	
+}
+
+8042 = {
+
+	culture = mossi
+	religion = animist
+	
+}
+
+6939 = {
+
+	culture = mossi
+	religion = animist
+	
+}
+
+6919 = {
+
+	culture = mossi
+	religion = animist
+	
+}
+
+6916 = {
+
+	culture = hausa
+	religion = hanafi
+	
+}

@@ -2,7 +2,7 @@
 6329 = {	# 6329 - QURTA
 	
 	# Misc
-	culture = nubian
+	culture = egyptian
 	religion = coptic
 	
 	# History
@@ -13,8 +13,8 @@
 6393 = {	# 6393 - USHARA
 	
 	# Misc
-	culture = nubian
-	religion = coptic
+	culture = sudanese
+	religion = afroprot
 	
 	# History
 
@@ -24,8 +24,8 @@
 6394 = {	# 6394 - SOBA
 	
 	# Misc
-	culture = nubian
-	religion = coptic
+	culture = sudanese
+	religion = afroprot
 	
 	# History
 
@@ -35,8 +35,8 @@
 6396 = {	# 6396 - GETEINA
 	
 	# Misc
-	culture = nubian
-	religion = coptic
+	culture = sudanese
+	religion = afroprot
 	
 	# History
 
@@ -46,8 +46,8 @@
 6400 = {	# 6400 - SENNAR
 	
 	# Misc
-	culture = nubian
-	religion = coptic
+	culture = sudanese
+	religion = afroprot
 	
 	# History
 
@@ -57,8 +57,8 @@
 6405 = {	# 6405 - EL-ELEILA
 	
 	# Misc
-	culture = nubian
-	religion = coptic
+	culture = sudanese
+	religion = afroprot
 	
 	# History
 
@@ -68,8 +68,8 @@
 6407 = {	# 6407 - NAGA
 	
 	# Misc
-	culture = nubian
-	religion = coptic
+	culture = sudanese
+	religion = afroprot
 	
 	# History
 
@@ -79,8 +79,8 @@
 6429 = {	# 6429 - KOSTI
 	
 	# Misc
-	culture = nubian
-	religion = coptic
+	culture = sudanese
+	religion = afroprot
 	
 	# History
 
@@ -90,8 +90,8 @@
 6433 = {	# 6433 - FAZLUGHLI
 	
 	# Misc
-	culture = nubian
-	religion = coptic
+	culture = amhara
+	religion = afroprot
 	
 	# History
 
@@ -107,5 +107,103 @@
 	# History
 	#1150.1.1 = { religion = ashari }
 
+}
+
+6362 = {
+
+	culture = egyptian
+	religion = coptic
+	
+}
+
+6334 = {
+
+	culture = egyptian
+	religion = coptic
+	
+}
+
+6336 = {
+
+	culture = nubian
+	religion = coptic
+	
+}
+
+6337 = {
+
+	culture = nubian
+	religion = coptic
+	
+}
+
+6339 = {
+
+	culture = nubian
+	religion = coptic
+	
+}
+
+6344 = {
+
+	culture = nubian
+	religion = hanafi
+	
+}
+
+6346 = {
+
+	culture = sudanese
+	religion = hanafi
+	
+}
+
+6415 = {
+
+	culture = sudanese
+	religion = hanafi
+	
+}
+
+6363 = {
+
+	culture = sudanese
+	religion = hanafi
+	
+}
+
+6367 = {
+
+	culture = sudanese
+	religion = hanafi
+	
+}
+
+6352 = {
+
+	culture = sudanese
+	religion = hanafi
+	
+}
+
+6351 = {
+
+	culture = sudanese
+	religion = hanafi
+	
+}
+
+6356 = {
+
+	culture = sudanese
+	religion = hanafi
+	
+}
+
+8514 = {
+
+	culture = amhara
+	religion = afroprot
+	
 }
 

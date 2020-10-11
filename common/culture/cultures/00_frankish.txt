@@ -197,7 +197,7 @@
 	
 	alsacien = {
 		
-		color = { 0.3 0.3 0.5 }
+		color = { 0.3 0.7 0.8 }
 		
 		cadet_dynasty_names = {
 			{ "dynnp_d_" "dynn_Merovingian" }

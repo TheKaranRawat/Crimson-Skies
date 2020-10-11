@@ -26,8 +26,8 @@
 169 = {	# 169 - NYEN
 	
 	# Misc
-	culture = estonian
-	religion = finnish_pagan
+	culture = russian
+	religion = orthodox
 	
 	# History
 	1150.1.1 = { religion = orthodox }
