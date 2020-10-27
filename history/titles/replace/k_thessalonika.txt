@@ -1,0 +1,160 @@
+d_thrace = {
+	2390.1.1 = {
+		holder = "neobyzantine1"
+	}
+
+}
+
+
+c_byzantion = {
+	867.1.1 = {	change_development_level = 25 }
+	1066.1.1 = { change_development_level = 35 }
+	
+	2390.1.1 = {
+		holder = "neobyzantine1"
+	}
+}
+
+
+c_kalliopolis = {
+	2390.1.1 = {
+		holder = "neobyzantine1"
+	}
+	
+}
+
+
+c_brysis = {
+	2390.1.1 = {
+		holder = "neobyzantine1"
+	}
+
+}
+
+
+d_strymon = {
+	
+}
+
+
+c_mosynopolis = {
+	2390.1.1 = {
+		holder = "neobyzantine1"
+	}
+
+}
+
+
+c_serres = {
+	2390.1.1 = {
+		holder = "neobyzantine1"
+	}
+
+}
+
+
+d_aegean_islands = {
+	2390.1.1 = {
+		holder = "neobyzantine1"
+	}	
+
+}
+
+
+c_naxos = {
+	2390.1.1 = {
+		holder = "neobyzantine1"
+	}
+}
+
+
+c_abydos = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 12 }
+	
+	
+}
+
+
+c_lesbos = {
+	
+	
+	
+
+}
+
+
+c_chios = {
+	
+
+}
+
+
+c_rhodos = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 12 }
+	
+	
+
+}
+
+
+d_thessalonika = {
+	
+
+}
+
+
+c_thessalonika = {
+	
+
+}
+
+
+c_chalkidike = {
+	867.1.1 = {	change_development_level = 8 }
+	1066.1.1 = { change_development_level = 12 }
+	
+	
+
+}
+
+
+c_veria = {
+	
+
+}
+
+
+d_thessaly = {
+	
+
+}
+
+
+c_thessalia = {
+	
+}
+
+
+c_demetrias = {
+	
+	
+	
+	
+
+}
+
+
+c_neopatras = {
+	
+	
+	
+
+}
+
+
+c_thessaliotis = {
+	
+}
+

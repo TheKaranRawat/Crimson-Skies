@@ -4938,7 +4938,7 @@ e_germany = {
 					color2 = { 255 255 255 }
 				}
 			}
-		}
+		}		
 
 		d_holstein = {
 			color = { 172 112 112 }
@@ -7359,6 +7359,330 @@ e_germany = {
 					culture_group = culture_group:central_germanic_group
 				}
 				add = @better_than_the_alternatives_score
+			}
+		}
+		
+		d_ostmark = {
+			color = { 121 140 121 }
+			color2 = { 255 255 255 }
+			
+			#capital = 3166 #Brandenburg
+			
+			cultural_names = {
+				polabian = cn_luticia
+			}
+			
+			c_brandenburg = {
+				color = { 115 135 115 }
+				color2 = { 255 255 255 }
+				
+				cultural_names = {
+					polabian = cn_brenna
+				}
+
+				b_brandenburg = {
+					province = 3166
+
+					color = { 115 135 115 }
+					color2 = { 255 255 255 }
+					
+					cultural_names = {
+						polabian = cn_brenna
+					}
+				}
+				b_potsdam = {
+					province = 3157
+
+					color = { 115 135 115 }
+					color2 = { 255 255 255 }
+					
+					cultural_names = {
+						polabian = cn_podstupim
+					}
+				}
+				b_lehnin = {
+					province = 3177
+
+					color = { 115 135 115 }
+					color2 = { 255 255 255 }
+				}
+				b_tangermunde = {
+					province = 3170
+
+					color = { 115 135 115 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_ruppin = {
+				color = { 90 100 65 }
+				color2 = { 255 255 255 }
+				
+				cultural_names = {
+					polabian = cn_wilzia
+				}
+
+				b_ruppin = {
+					province = 3168
+
+					color = { 90 100 65 }
+					color2 = { 255 255 255 }
+				}
+				b_lindow = {
+					province = 3167
+
+					color = { 90 100 65 }
+					color2 = { 255 255 255 }
+				}
+				b_nowen = {
+					province = 3169
+
+					color = { 90 100 65 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_berlin = {
+				color = { 80 110 80 }
+				color2 = { 255 255 255 }
+				
+				cultural_names = {
+					polabian = cn_ukria
+				}
+
+				b_berlin = {
+					province = 3158
+
+					color = { 80 110 80 }
+					color2 = { 255 255 255 }
+				}
+				b_botzow = {
+					province = 3164
+
+					color = { 80 110 80 }
+					color2 = { 255 255 255 }
+				}
+				b_rosenfelde = {
+					province = 3165
+
+					color = { 80 110 80 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_havelberg = {
+				color = { 100 120 100 }
+				color2 = { 255 255 255 }
+				
+				cultural_names = {
+					polabian = cn_hevellia
+				}
+				
+				b_havelberg = {
+					province = 2814
+
+					color = { 100 120 100 }
+					color2 = { 255 255 255 }
+				}
+				b_klenow = {
+					province = 2815
+
+					color = { 100 120 100 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_prenzlau = {
+				color = { 115 160 115 }
+				color2 = { 255 255 255 }
+				
+				cultural_names = {
+					polabian = cn_redaria
+				}
+
+				b_prenzlau = {
+					province = 3160
+
+					color = { 115 160 115 }
+					color2 = { 255 255 255 }
+					
+					cultural_names = {
+						polabian = cn_rethra
+					}
+				}
+				b_templin = {
+					province = 3163
+
+					color = { 115 160 115 }
+					color2 = { 255 255 255 }
+				}
+				b_schwedt = {
+					province = 3162
+
+					color = { 115 160 115 }
+					color2 = { 255 255 255 }
+				}
+				b_eberswalde = {
+					province = 3161
+					
+					color = { 115 160 115 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_nordmark = {
+			color = { 162 160 110 }
+			color2 = { 255 255 255 }
+			
+			capital = c_mecklenburg #Wismar
+			
+			cultural_names = {
+				polabian = cn_veletia
+			}
+			
+			c_mecklenburg = {
+				color = { 165 165 115 }
+				color2 = { 255 255 255 }
+				
+				cultural_names = {
+					polabian = cn_obotritia
+				}
+				
+				b_wismar = {
+					province = 2807
+
+					color = { 165 165 115 }
+					color2 = { 255 255 255 }
+				}
+				b_ratzeburg = {
+					province = 2806
+
+					color = { 165 165 115 }
+					color2 = { 255 255 255 }
+					
+					cultural_names = {
+						polabian = cn_racisburg
+					}
+				}
+				b_schwerin = {
+					province = 2808
+
+					color = { 165 165 115 }
+					color2 = { 255 255 255 }
+					
+					cultural_names = {
+						polabian = cn_zwierzyn
+					}
+				}
+				b_parchim = {
+					province = 2813
+
+					color = { 165 165 115 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_wolgast = {
+				color = { 165 185 122 }
+				color2 = { 255 255 255 }
+				
+				cultural_names = {
+					polabian = cn_circipania
+				}
+
+				b_wolgast = {
+					province = 2817
+
+					color = { 165 185 122 }
+					color2 = { 255 255 255 }
+				}
+				b_griefswald = {
+					province = 2816
+
+					color = { 165 185 122 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_rugen = {
+				color = { 163 162 145 }
+				color2 = { 255 255 255 }
+				
+				cultural_names = {
+					polabian = cn_rana
+					polish = cn_rana
+					pommeranian = cn_rana
+				}
+
+				b_rugen = {
+					province = 2811
+
+					color = { 163 162 145 }
+					color2 = { 255 255 255 }
+					
+					cultural_names = {
+						polabian = cn_arkona
+						polish = cn_arkona
+						pommeranian = cn_arkona
+					}
+				}
+				b_stralsund = {
+					province = 2810
+
+					color = { 163 162 145 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_rostock = {
+				color = { 145 162 132 }
+				color2 = { 255 255 255 }
+				
+				cultural_names = {
+					polabian = cn_kissinia
+				}
+
+				b_rostock = {
+					province = 2809
+
+					color = { 145 162 132 }
+					color2 = { 255 255 255 }
+					
+					cultural_names = {
+						polabian = cn_roztoc
+					}
+				}
+				b_gustrow = {
+					province = 2819
+
+					color = { 145 162 132 }
+					color2 = { 255 255 255 }
+					
+					cultural_names = {
+						polabian = cn_guscerov
+					}
+				}
+			}
+			c_werle = {
+				color = { 170 185 140 }
+				color2 = { 255 255 255 }
+				
+				cultural_names = {
+					polabian = cn_warnabia
+				}
+
+				b_werle = {
+					province = 2812
+
+					color = { 170 185 140 }
+					color2 = { 255 255 255 }
+				}
+				b_neubrandenburg = {
+					province = 2820
+
+					color = { 170 185 140 }
+					color2 = { 255 255 255 }
+				}
+				b_neustrelitz = {
+					province = 2821
+
+					color = { 170 185 140 }
+					color2 = { 255 255 255 }
+				}
 			}
 		}
 
@@ -22925,164 +23249,7 @@ e_wendish_empire = {
 			}
 		}
 		
-		d_nordmark = {
-			color = { 162 160 110 }
-			color2 = { 255 255 255 }
-			
-			capital = c_mecklenburg #Wismar
-			
-			cultural_names = {
-				polabian = cn_veletia
-			}
-			
-			c_mecklenburg = {
-				color = { 165 165 115 }
-				color2 = { 255 255 255 }
-				
-				cultural_names = {
-					polabian = cn_obotritia
-				}
-				
-				b_wismar = {
-					province = 2807
-
-					color = { 165 165 115 }
-					color2 = { 255 255 255 }
-				}
-				b_ratzeburg = {
-					province = 2806
-
-					color = { 165 165 115 }
-					color2 = { 255 255 255 }
-					
-					cultural_names = {
-						polabian = cn_racisburg
-					}
-				}
-				b_schwerin = {
-					province = 2808
-
-					color = { 165 165 115 }
-					color2 = { 255 255 255 }
-					
-					cultural_names = {
-						polabian = cn_zwierzyn
-					}
-				}
-				b_parchim = {
-					province = 2813
-
-					color = { 165 165 115 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_wolgast = {
-				color = { 165 185 122 }
-				color2 = { 255 255 255 }
-				
-				cultural_names = {
-					polabian = cn_circipania
-				}
-
-				b_wolgast = {
-					province = 2817
-
-					color = { 165 185 122 }
-					color2 = { 255 255 255 }
-				}
-				b_griefswald = {
-					province = 2816
-
-					color = { 165 185 122 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_rugen = {
-				color = { 163 162 145 }
-				color2 = { 255 255 255 }
-				
-				cultural_names = {
-					polabian = cn_rana
-					polish = cn_rana
-					pommeranian = cn_rana
-				}
-
-				b_rugen = {
-					province = 2811
-
-					color = { 163 162 145 }
-					color2 = { 255 255 255 }
-					
-					cultural_names = {
-						polabian = cn_arkona
-						polish = cn_arkona
-						pommeranian = cn_arkona
-					}
-				}
-				b_stralsund = {
-					province = 2810
-
-					color = { 163 162 145 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_rostock = {
-				color = { 145 162 132 }
-				color2 = { 255 255 255 }
-				
-				cultural_names = {
-					polabian = cn_kissinia
-				}
-
-				b_rostock = {
-					province = 2809
-
-					color = { 145 162 132 }
-					color2 = { 255 255 255 }
-					
-					cultural_names = {
-						polabian = cn_roztoc
-					}
-				}
-				b_gustrow = {
-					province = 2819
-
-					color = { 145 162 132 }
-					color2 = { 255 255 255 }
-					
-					cultural_names = {
-						polabian = cn_guscerov
-					}
-				}
-			}
-			c_werle = {
-				color = { 170 185 140 }
-				color2 = { 255 255 255 }
-				
-				cultural_names = {
-					polabian = cn_warnabia
-				}
-
-				b_werle = {
-					province = 2812
-
-					color = { 170 185 140 }
-					color2 = { 255 255 255 }
-				}
-				b_neubrandenburg = {
-					province = 2820
-
-					color = { 170 185 140 }
-					color2 = { 255 255 255 }
-				}
-				b_neustrelitz = {
-					province = 2821
-
-					color = { 170 185 140 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
+		
 		
 		d_pomerelia = {
 			color = { 80 130 80 }
@@ -23315,170 +23482,7 @@ e_wendish_empire = {
 			}
 		}
 		
-		d_ostmark = {
-			color = { 121 140 121 }
-			color2 = { 255 255 255 }
-			
-			#capital = 3166 #Brandenburg
-			
-			cultural_names = {
-				polabian = cn_luticia
-			}
-			
-			c_brandenburg = {
-				color = { 115 135 115 }
-				color2 = { 255 255 255 }
-				
-				cultural_names = {
-					polabian = cn_brenna
-				}
-
-				b_brandenburg = {
-					province = 3166
-
-					color = { 115 135 115 }
-					color2 = { 255 255 255 }
-					
-					cultural_names = {
-						polabian = cn_brenna
-					}
-				}
-				b_potsdam = {
-					province = 3157
-
-					color = { 115 135 115 }
-					color2 = { 255 255 255 }
-					
-					cultural_names = {
-						polabian = cn_podstupim
-					}
-				}
-				b_lehnin = {
-					province = 3177
-
-					color = { 115 135 115 }
-					color2 = { 255 255 255 }
-				}
-				b_tangermunde = {
-					province = 3170
-
-					color = { 115 135 115 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_ruppin = {
-				color = { 90 100 65 }
-				color2 = { 255 255 255 }
-				
-				cultural_names = {
-					polabian = cn_wilzia
-				}
-
-				b_ruppin = {
-					province = 3168
-
-					color = { 90 100 65 }
-					color2 = { 255 255 255 }
-				}
-				b_lindow = {
-					province = 3167
-
-					color = { 90 100 65 }
-					color2 = { 255 255 255 }
-				}
-				b_nowen = {
-					province = 3169
-
-					color = { 90 100 65 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_berlin = {
-				color = { 80 110 80 }
-				color2 = { 255 255 255 }
-				
-				cultural_names = {
-					polabian = cn_ukria
-				}
-
-				b_berlin = {
-					province = 3158
-
-					color = { 80 110 80 }
-					color2 = { 255 255 255 }
-				}
-				b_botzow = {
-					province = 3164
-
-					color = { 80 110 80 }
-					color2 = { 255 255 255 }
-				}
-				b_rosenfelde = {
-					province = 3165
-
-					color = { 80 110 80 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_havelberg = {
-				color = { 100 120 100 }
-				color2 = { 255 255 255 }
-				
-				cultural_names = {
-					polabian = cn_hevellia
-				}
-				
-				b_havelberg = {
-					province = 2814
-
-					color = { 100 120 100 }
-					color2 = { 255 255 255 }
-				}
-				b_klenow = {
-					province = 2815
-
-					color = { 100 120 100 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_prenzlau = {
-				color = { 115 160 115 }
-				color2 = { 255 255 255 }
-				
-				cultural_names = {
-					polabian = cn_redaria
-				}
-
-				b_prenzlau = {
-					province = 3160
-
-					color = { 115 160 115 }
-					color2 = { 255 255 255 }
-					
-					cultural_names = {
-						polabian = cn_rethra
-					}
-				}
-				b_templin = {
-					province = 3163
-
-					color = { 115 160 115 }
-					color2 = { 255 255 255 }
-				}
-				b_schwedt = {
-					province = 3162
-
-					color = { 115 160 115 }
-					color2 = { 255 255 255 }
-				}
-				b_eberswalde = {
-					province = 3161
-					
-					color = { 115 160 115 }
-					color2 = { 255 255 255 }
-				}
-			}
-		}
+		
 	}
 
 	k_lithuania = {

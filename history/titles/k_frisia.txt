@@ -33,7 +33,7 @@ k_frisia = {
 		de_jure_liege = e_germany
 	}
 	962.2.2 = {
-		de_jure_liege = e_hre
+		#de_jure_liege = e_hre
 	}
 	
 
@@ -55,7 +55,7 @@ d_holland = {
 	}
 	
 	870.8.8 = {
-		liege = "e_hre"
+		#liege = "e_hre"
 	}
 	880.1.1 = {
 		holder = 168336
@@ -354,7 +354,7 @@ c_zeeland = {
 
 d_gelre = {
 	1337.1.1 = {
-		liege = "e_hre"
+		#liege = "e_hre"
 	}
 	1337.1.1 = {
 		holder = 30039
@@ -393,7 +393,7 @@ c_guelders = {
 		holder = 30019
 	}
 	1190.8.21 = {
-		liege = "e_hre"
+		#liege = "e_hre"
 	}
 	1207.10.22 = {
 		holder = 30023
@@ -450,7 +450,7 @@ c_arnhem = {
 		holder = 30019
 	}
 	1190.8.21 = {
-		liege = "e_hre"
+		#liege = "e_hre"
 	}
 	1207.10.22 = {
 		holder = 30023
@@ -528,7 +528,7 @@ c_zutphen = {
 		holder = 212920 #Dietrich IV
 	}
 	1180.9.16 = {
-		liege = "e_hre"
+		#liege = "e_hre"
 	}
 	1190.8.21 = {
 		liege = "d_lower_lorraine"
@@ -1028,7 +1028,7 @@ c_ostfriesland = {
 		holder = 212600
 	}
 	1180.9.16 = {
-		liege = "e_hre"
+		#liege = "e_hre"
 	}
 	1195.8.6 = {
 		holder = 462801

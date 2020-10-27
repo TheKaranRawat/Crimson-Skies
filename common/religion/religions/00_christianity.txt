@@ -823,7 +823,7 @@
 		}
 		
 		anglistrom = {
-			color = { 0.0 0.2 0.8 }
+			color = { 0.4 0.2 0.2 }
 			
 			graphical_faith = "catholic_gfx"
 			
@@ -898,7 +898,7 @@
 		}
 
 		anabaptist = {
-			color = { 0.0 0.2 0.8 }
+			color = { 0.4 0.2 0.8 }
 			
 			graphical_faith = "catholic_gfx"
 			
@@ -973,7 +973,7 @@
 		}
 		
 		pentecostal = {
-			color = { 0.0 0.2 0.8 }
+			color = { 1.0 0.2 0.3 }
 			
 			graphical_faith = "catholic_gfx"
 			
@@ -1048,7 +1048,7 @@
 		}
 		
 		calvinist = {
-			color = { 0.0 0.2 0.8 }
+			color = { 0.4 0.2 0.2 }
 			
 			graphical_faith = "catholic_gfx"
 			
@@ -1123,7 +1123,7 @@
 		}
 		
 		presbyterian = {
-			color = { 0.1 0.2 0.5 }
+			color = { 0.5 0.6 0.9 }
 			
 			graphical_faith = "catholic_gfx"
 			
@@ -1498,7 +1498,7 @@
 		}
 		
 		lutheran = {
-			color = { 0.0 0.2 0.8 }
+			color = { 0.3 0.6 0.9 }
 			
 			graphical_faith = "catholic_gfx"
 			

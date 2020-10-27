@@ -1831,7 +1831,7 @@ c_lanciano = {
 		holder = 1726
 	}
 	1053.1.1 = {
-		holder = 1128 #Robert de Hauteville
+		holder = 85003 #Robert de Hauteville
 	}
 	1107.1.1 = {
 		holder = 30870 #William de Hauteville

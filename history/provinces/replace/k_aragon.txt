@@ -2,7 +2,7 @@
 1862 = {	# BARCELONA
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = anabaptist
 	
 	holding = castle_holding
 	
@@ -25,7 +25,7 @@
 1878 = {	# 1878 - URGELL
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = anabaptist
 	
 	holding = castle_holding
 	
@@ -48,7 +48,7 @@
 1868 = {	# PUIGCERDA
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = anabaptist
 	
 	holding = castle_holding
 	
@@ -68,7 +68,7 @@
 1866 = {	# PERPIGNAN/Perpinyà
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = anabaptist
 	
 	holding = castle_holding
 	
@@ -88,7 +88,7 @@
 1881 = {	# LLEIDA
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = anabaptist
 	
 	holding = castle_holding
 	
@@ -109,7 +109,7 @@
 1860 = {	# TARRAGONA
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = anabaptist
 	
 	holding = castle_holding
 	
@@ -132,14 +132,14 @@
 ###c_zaragoza
 1887 = {	# ZARAGOZA
 	# Misc
-	culture = visigothic
-	religion = catholic
+	culture = aragonese
+	religion = anabaptist
 	
 	holding = castle_holding
 	
 	# History
 	955.1.1 = {
-		culture = andalusian
+		culture = aragonese
 	}
 }
 1888 = {	# EJEA
@@ -156,16 +156,16 @@
 1936 = {	# ALBARRACIN
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = anabaptist
 	
 	holding = castle_holding
 	
 	# History
-	812.1.1 = { religion = muwalladi }
-	939.1.1 = { culture = andalusian }
+	812.1.1 = { religion = anabaptist }
+	939.1.1 = { culture = catalan }
 	1235.1.1 = {
-		culture = castilian
-		religion = catholic
+		culture = catalan
+		religion = anabaptist
 	}
 }
 1943 = {	# SIERRA DE SAN JUST/Utrillas
@@ -183,7 +183,7 @@
 3221 = {	# ALTO ARAGON
 	#Misc
 	culture = basque
-	religion = catholic
+	religion = anabaptist
 	
 	holding = castle_holding
 	
@@ -207,13 +207,13 @@
 1932 = {	# CALATYUD
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = anabaptist
 	
 	holding = castle_holding
 	
 	# History
 	955.1.1 = {
-		culture = andalusian
+		culture = aragonese
 	}
 }
 1934 = {	# DAROCA
@@ -223,8 +223,8 @@
 ###c_fraga
 1882 = {	# FRAGA
 	#Misc
-	culture = visigothic
-	religion = catholic
+	culture = aragonese
+	religion = anabaptist
 	
 	holding = castle_holding
 	
@@ -239,16 +239,16 @@
 1892 = {	# ALCANIZ
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = anabaptist
 	
 	holding = castle_holding
 	
 	# History
-	812.1.1 = { religion = muwalladi }
-	944.1.1 = { culture = andalusian }
+	812.1.1 = { religion = anabaptist }
+	944.1.1 = { culture = catalan }
 	1259.1.1 = {
 		culture = catalan
-		religion = catholic
+		religion = anabaptist
 	}
 }
 1883 = {	# CASPE

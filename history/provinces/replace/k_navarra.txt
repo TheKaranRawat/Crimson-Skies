@@ -2,7 +2,7 @@
 1806 = {	# PAMPLONA
 	# Misc
 	culture = basque
-	religion = catholic
+	religion = anabaptist
 	
 	holding = castle_holding
 }
@@ -16,8 +16,8 @@
 ###c_najera
 1811 = {	# NAJERA
 	# Misc
-	culture = basque
-	religion = catholic
+	culture = castilian
+	religion = pentecostal
 	
 	holding = castle_holding
 }
@@ -32,7 +32,7 @@
 1902 = {	# TUDELA
 	#Misc
 	culture = visigothic
-	religion = catholic
+	religion = anabaptist
 	
 	holding = castle_holding
 	
@@ -46,8 +46,8 @@
 ###c_viscaya
 1803 = {	# BILIBIO/Vizcaya
 	# Misc
-	culture = basque
-	religion = catholic
+	culture = castilian
+	religion = pentecostal
 	
 	holding = castle_holding
 }
@@ -59,7 +59,7 @@
 1805 = {	#  IRUN
 	# Misc
 	culture = basque
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 }

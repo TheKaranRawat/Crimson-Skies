@@ -7,8 +7,8 @@
 	holding = castle_holding
 	
 	# History
-	811.1.1 = { religion = muwalladi }
-	944.1.1 = { culture = andalusian }
+	811.1.1 = { religion = catholic }
+	944.1.1 = { culture = portugese }
 	1264.1.1 = {
 		culture = portuguese
 		religion = catholic
@@ -25,13 +25,13 @@
 1748 = {	# Faro
 	#Misc	
 	culture = visigothic
-	religion = muwalladi
+	religion = catholic
 	
 	holding = castle_holding
 	
 	# History
 	939.1.1 = {
-		culture = andalusian
+		culture = portugese
 	}
 	1264.1.1 = {
 		culture = portuguese
@@ -50,8 +50,8 @@
 	
 	# History
 	939.1.1 = {
-		culture = andalusian
-		religion = muwalladi
+		culture = portugese
+		religion = catholic
 	}
 	1233.1.1 = {
 		culture = portuguese
@@ -78,8 +78,8 @@
 	
 	# History
 	944.1.1 = {
-		culture = andalusian
-		religion = muwalladi
+		culture = portugese
+		religion = catholic
 	}
 	1163.1.1 = {
 		culture = portuguese
@@ -103,8 +103,8 @@
 	
 	# History
 	944.1.1 = {
-		culture = andalusian
-		religion = muwalladi
+		culture = portugese
+		religion = catholic
 	}
 	1163.1.1 = {
 		culture = portuguese
@@ -131,8 +131,8 @@
 	holding = castle_holding
 	
 	# History
-	811.1.1 = { religion = muwalladi }
-	939.1.1 = { culture = andalusian }
+	811.1.1 = { religion = catholic }
+	939.1.1 = { culture = portugese }
 	1253.1.1 = {
 		culture = portuguese
 		religion = catholic
@@ -151,7 +151,7 @@
 	holding = castle_holding
 	
 	# History
-	955.1.1 = { culture = asturleonese }
+	955.1.1 = { culture = castilian }
 }
 1830 = {	# 1830 - CORIA
 	holding = city_holding
@@ -169,8 +169,8 @@
 	holding = castle_holding
 	
 	# History
-	812.1.1 = { religion = muwalladi }
-	939.1.1 = { culture = andalusian }
+	812.1.1 = { religion = catholic }
+	939.1.1 = { culture = castilian }
 	1235.1.1 = {
 		culture = castilian
 		religion = catholic
@@ -192,8 +192,8 @@
 	holding = castle_holding
 	
 	# History
-	812.1.1 = { religion = muwalladi }
-	934.1.1 = { culture = andalusian }
+	812.1.1 = { religion = catholic }
+	934.1.1 = { culture = castilian }
 	1245.3.19 = {
 		culture = castilian
 		religion = catholic
@@ -215,8 +215,8 @@
 	holding = castle_holding
 	
 	# History
-	812.1.1 = { religion = muwalladi }
-	939.1.1 = { culture = andalusian }
+	812.1.1 = { religion = catholic }
+	939.1.1 = { culture = castilian }
 	1235.1.1 = {
 		culture = castilian
 		religion = catholic
@@ -241,8 +241,8 @@
 	religion = catholic
 	
 	# History
-	812.1.1 = { religion = muwalladi }
-	934.1.1 = { culture = andalusian }
+	812.1.1 = { religion = catholic }
+	934.1.1 = { culture = castilian }
 	1245.3.19 = {
 		culture = castilian
 		religion = catholic

@@ -18,11 +18,11 @@
 
 ###c_labourd
 2012 = {	#BAYONNE
-	culture = occitan
-	religion = calvinist
+	culture = basque
+	religion = pentecostal
 	holding = castle_holding
 	977.1.1	 = {
-		culture = occitan
+		culture = basque
 	}
 }
 2138 = {	#DAX

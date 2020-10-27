@@ -2,7 +2,7 @@
 1787 = {	# LA CORUNA
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
@@ -29,7 +29,7 @@
 1785 = {	# SANTIAGO DE COMPOSTELA
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
@@ -52,7 +52,7 @@
 1784 = {	# MONTE FARO
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
@@ -76,7 +76,7 @@
 1821 = {	# ASTORGA
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
@@ -102,7 +102,7 @@
 1818 = {	# MONTERREI
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
@@ -119,7 +119,7 @@
 1760 = {	# PORTO
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
@@ -142,7 +142,7 @@
 1763 = {	# BRAGANCA
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
@@ -175,7 +175,7 @@
 	
 	# History
 	931.1.1 = {
-		culture = galician
+		culture = portugese
 	}
 }
 1757 = {	# LEIRIA
@@ -194,7 +194,7 @@
 	holding = castle_holding
 	
 	# History
-	926.1.1 = { culture = galician }
+	926.1.1 = { culture = portugese }
 }
 1770 = {	# TRANCOSO
 	holding = city_holding
@@ -209,7 +209,7 @@
 	holding = castle_holding
 	
 	# History
-	931.1.1 = { culture = galician }
+	931.1.1 = { culture = portugese }
 }
 2003 = {	# GRALHEIRA/Cinfaes
 	holding = none
@@ -221,13 +221,13 @@
 ###c_castelo_branco
 1773 = {	# CASTELO BRANCO
 	# Misc
-	culture = visigothic
+	culture = portugese
 	religion = catholic
 	
 	holding = castle_holding
 	
 	# History
-	926.1.1 = { culture = asturleonese }
+	926.1.1 = { culture = portugese }
 }
 1771 = {	# IDANHA/Beira
 	holding = city_holding

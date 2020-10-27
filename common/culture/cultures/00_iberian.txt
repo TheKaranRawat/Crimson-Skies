@@ -104,6 +104,7 @@
 			{ name = "mercenary_company_nafarroako_konpainia" coat_of_arms = "mc_nafarroako_konpainia" }
 		}
 	}
+	
 	castilian = {
 		graphical_cultures = {
 			castilian_coa_gfx
@@ -513,7 +514,7 @@
 	}
 	catalan = {
 		
-		color = { 0.85 0.75 0.08 }
+		color = { 0.35 0.75 0.38 }
 
 		cadet_dynasty_names = {
 			{ "dynnp_de" "dynn_Mallorca" }
@@ -969,6 +970,149 @@
 
 	galician = {
 		
+		color = { 0.40 0.55 0.95 }
+
+		cadet_dynasty_names = {
+			"dynn_Gallego"
+			{ "dynnp_de" "dynn_Acibeiro" }
+			{ "dynnp_de" "dynn_Armenteira" }
+			{ "dynnp_de" "dynn_Astorga" }
+			{ "dynnp_de" "dynn_Barrantes" }
+			{ "dynnp_de" "dynn_Betanzos" }
+			{ "dynnp_de" "dynn_Carballido" }
+			{ "dynnp_da" "dynn_CoruN_a" }
+			{ "dynnp_de" "dynn_Dubra" }
+			{ "dynnp_de" "dynn_Ferreira" }
+			{ "dynnp_do" "dynn_Ferrol" }
+			{ "dynnp_de" "dynn_Galicia" }
+			{ "dynnp_de" "dynn_Lemos" }
+			{ "dynnp_de" "dynn_LE_rez" }
+			{ "dynnp_de" "dynn_Limia" }
+			{ "dynnp_de" "dynn_Lourenza" }
+			{ "dynnp_de" "dynn_Lugo" }
+			{ "dynnp_de" "dynn_Meira" }
+			{ "dynnp_de" "dynn_ME_lide" }
+			{ "dynnp_de" "dynn_MelO_n" }
+			{ "dynnp_de" "dynn_MondoN_edo" }
+			{ "dynnp_de" "dynn_Monfero" }
+			{ "dynnp_de" "dynn_Monterrei" }
+			{ "dynnp_de" "dynn_Novoa" }
+			{ "dynnp_de" "dynn_Oseira" }
+			{ "dynnp_de" "dynn_Ourense" }
+			{ "dynnp_do" "dynn_PadrO_n" }
+			{ "dynnp_de" "dynn_Penamaior" }
+			{ "dynnp_de" "dynn_Poio" }
+			{ "dynnp_de" "dynn_Pontevedra" }
+			{ "dynnp_de" "dynn_Quiroga" }
+			{ "dynnp_de" "dynn_Salvatierra" }
+			{ "dynnp_de" "dynn_Samos" }
+			{ "dynnp_de" "dynn_Santiago" }
+			{ "dynnp_de" "dynn_Sobrado" }
+			{ "dynnp_de" "dynn_TrastA_mara" }
+			{ "dynnp_de" "dynn_Tui" }
+			{ "dynnp_de" "dynn_Vigo" }
+			{ "dynnp_de" "dynn_Vilalba" }
+		}
+
+		dynasty_names = {
+			"dynn_AlfO_nsez"
+			"dynn_A_lvarez"
+			"dynn_AndrE_s"
+			"dynn_Arias"
+			"dynn_Berenguer"
+			"dynn_Bernardo"
+			"dynn_Camundo"
+			"dynn_DI_az"
+			"dynn_EstE_vez"
+			"dynn_FernA_ndez"
+			"dynn_FLA_inez"
+			"dynn_Froilaz"
+			"dynn_GarcI_a"
+			"dynn_GonzA_lez"
+			"dynn_GundestE_iz"
+			"dynn_GotE_rrez"
+			"dynn_Lorenzo"
+			"dynn_MartI_n"
+			"dynn_ME_ndez"
+			"dynn_MuN_oz"
+			"dynn_OdoA_riz"
+			"dynn_Osorio"
+			"dynn_PA_ez"
+			"dynn_PE_rez"
+			"dynn_Quiroga"
+			"dynn_RodrI_guez"
+			"dynn_RomA_niz"
+			"dynn_RuI_z"
+			"dynn_Pereira"
+			"dynn_SA_nchez"
+			"dynn_SuA_rez"
+			"dynn_VA_squez"
+			"dynn_VE_laz"
+			"dynn_VermU_dez"
+			"dynn_XelmI_rez"
+			"dynn_Xil"
+			{ "dynnp_de" "dynn_Andrade" }
+			{ "dynnp_de" "dynn_Barrantes" }
+			{ "dynnp_de" "dynn_Castro" }
+			{ "dynnp_do" "dynn_Cela" }
+			{ "dynnp_de" "dynn_Deza" }
+			{ "dynnp_de" "dynn_Lemos" }
+			{ "dynnp_de" "dynn_Limia" }
+			{ "dynnp_de" "dynn_Monterroso" }
+			{ "dynnp_de" "dynn_Moscoso" }
+			{ "dynnp_de" "dynn_Novoa" }
+			{ "dynnp_do" "dynn_PadrO_n" }
+			{ "dynnp_de" "dynn_Quiroga" }
+			{ "dynnp_de" "dynn_Santiago" }
+			{ "dynnp_de" "dynn_Sarmiento" }
+			{ "dynnp_de" "dynn_Sarria" }
+			{ "dynnp_de" "dynn_Silva" }
+			{ "dynnp_de" "dynn_ToroN_o" }
+			{ "dynnp_de" "dynn_Trava" }
+			{ "dynnp_de" "dynn_Ulloa" }
+		}
+
+		male_names = {
+			Afonso A_lvar Alvito AndrE_ Ansur Arias Berenguel Bernardo Diego Estevo
+			FernA_n Fernando FlaI_n Froila GarcI_a Gerardo GO_mez Gonzalo Guillerme Guterre
+			Henrique Hermenexildo Lope Lourenzo Lucidio Manuel MartiN_o Mendo Munio NuN_o
+			OrdoN_o Osorio Oveco Paio Pedro Ponce Raimundo Rodrigo Roi RomA_n
+			Rosendo Sancho SebastiA_n Sueiro Vasco Vela Vermudo Xil XoA_n
+		}
+		female_names = {
+			Adosinda Aldara Aldonza Beatriz Berengaria Branca Catarina Constanza CorexI_a Cristina
+			Duce Elo Elvira Enderquina EstefanI_a Eulalia Eva Fronilde Gontrode Goto
+			Gudilona Guiomar Guntina Hermesinda InEEs Leodegundia Leonor Loba Mafalda Maior
+			Margarida MarI_a Marina Marquesa MencI_a MI_lia Mumadona Munia Oneca Sabela
+			Sancha Tarexia Tigridia Toda Urraca Velasquida Visclavara Ximena Xoana
+		}
+
+		dynasty_of_location_prefix = "dynnp_de"
+		
+		patronym_suffix_male = "dynnpat_suf_ez"
+		patronym_suffix_female = "dynnpat_suf_ez"
+		always_use_patronym = yes	
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+		ethnicities = {
+			10 = mediterranean
+		}
+
+		mercenary_names = {
+			{ name = "mercenary_company_slaughterers" }
+			{ name = "mercenary_company_band_of_the_brigand_emperor" }
+		}
+	}
+	
+	portugese = {
+		
 		color = { 0.90 0.75 0.05 }
 
 		cadet_dynasty_names = {
@@ -1110,12 +1254,13 @@
 		}
 	}
 
+
 	asturleonese = {
 		
 		graphical_cultures = {
 			leonese_coa_gfx
 		}
-		color = { 0.75 0.62 0.19  }
+		color = { 0.45 0.62 0.79  }
 
 		cadet_dynasty_names = {
 			"dynn_AbI_n"

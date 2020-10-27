@@ -1,0 +1,15 @@
+﻿neobyzantine1 = {
+	name = "Konstantinos"
+	
+	religion = "revelationist"
+	culture = "greek"
+	
+	2371.1.1 = {
+		birth = "2371.1.1"
+	}
+	2371.1.1 = {
+		add_pressed_claim = e_byzantium
+		
+	}
+	
+}

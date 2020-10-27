@@ -2,7 +2,7 @@
 1906 = {	# BURGOS
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
@@ -23,7 +23,7 @@
 1897 = {	# VALLADOLID
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
@@ -45,7 +45,7 @@
 1901 = {	# SORIA
 	#Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
@@ -66,7 +66,7 @@
 1924 = {	# SEGOVIA
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
@@ -84,12 +84,12 @@
 1915 = {	# OLMEDO
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
 	# History
-	955.1.1 = { culture = asturleonese }
+	955.1.1 = { culture = castilian }
 }
 1922 = {	# CORACERA
 	holding = none
@@ -103,11 +103,11 @@
 1801 = {	# SANTIALLANA
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	# History
 	945.1.1 = {
-		culture = castilian
+		culture = asturleonese
 	}
 }
 1802 = {	# SANTANDER
@@ -128,12 +128,12 @@
 1814 = {	# AMAYA
 	# Misc
 	culture = visigothic
-	religion = catholic
+	religion = pentecostal
 	
 	holding = castle_holding
 	
 	# History
-	945.1.1 = { culture = castilian }
+	945.1.1 = { culture = asturleonese }
 }
 1813 = {	# MIRANDA DE EBRO
 	holding = city_holding

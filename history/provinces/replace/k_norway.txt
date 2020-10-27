@@ -23,7 +23,7 @@
 	
 	# History
 	1000.1.1 = {
-		religion = catholic
+		religion = lutheran
 	}
 }
 
@@ -52,7 +52,7 @@
 	
 	# History
 	1000.1.1 = {
-		religion = catholic
+		religion = lutheran
 	}
 }
 
@@ -83,9 +83,9 @@
 		religion = norse_pagan
 	}
 	1000.1.1 = {
-		religion = catholic
+		religion = norse_pagan
 	}
-	1066.1.1 = { culture = norwegian }
+	1066.1.1 = { culture = norse }
 }
 
 # 7 - SCALLOWAY
@@ -101,10 +101,10 @@
 		religion = norse_pagan
 	}
 	1000.1.1 = {
-		religion = catholic
+		religion = norse_pagan
 	}
-	1066.1.1 = { culture = norwegian }
-	1334.1.1 = { culture = scottish }
+	1066.1.1 = { culture = norse }
+	1334.1.1 = { culture = norse }
 }
 
 # 8 - KIRKWALL
@@ -127,7 +127,7 @@
 	
 	# Misc
 	culture = pictish
-	religion = catholic
+	religion = norse_pagan
 	terrain = hills
 	
 	# History
@@ -140,7 +140,7 @@
 	#	b_birsay = ca_shipyard_1
 	#	b_kirkwall = tp_town_1
 	#	b_kirkwall = tp_shipyard_1
-		religion = catholic
+		religion = norse_pagan
 	}
 	1066.1.1 = { culture = norwegian }
 }
